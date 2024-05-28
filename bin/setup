@@ -29,8 +29,7 @@ FileUtils.chdir APP_ROOT do
   system! "bin/rails db:prepare"
 
   puts "\n== Ensuring models and routes are annotated =="
-  system! "bundle exec annotaterb models"
-  system! "bundle exec annotaterb routes"
+  system! "./bin/annotate"
 
   puts "\n== Removing old logs and tempfiles =="
   system! "bin/rails log:clear tmp:clear"
