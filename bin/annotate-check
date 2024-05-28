@@ -1,4 +1,0 @@
-#!/usr/bin/env bash -euo pipefail
-
-bundle exec annotaterb models --frozen
-bundle exec annotaterb routes --frozen

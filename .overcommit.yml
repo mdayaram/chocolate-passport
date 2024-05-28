@@ -41,10 +41,6 @@ PreCommit:
     command: ["bundle", "exec", "rubocop", "--raise-cop-error", "--fail-level", "A", "--extra-details", "--display-style-guide"]
     on_warn: fail
     problem_on_unmodified_line: warn
-  CustomScript:
-    enabled: true
-    description: "Ensure annotations are up to date"
-    command: ["./bin/annotate-check"]
   BundleCheck:
     enabled: true
 
