@@ -5,7 +5,8 @@
 #                                   Prefix Verb URI Pattern                                                                                       Controller#Action
 #                                               /assets                                                                                           Propshaft::Server
 #                       rails_health_check GET  /up(.:format)                                                                                     rails/health#show
-#                        api_v1_chocolates GET  /api/v1/chocolates(.:format)                                                                      api/v1/chocolates#index
+#                               chocolates GET  /chocolates(.:format)                                                                             chocolates#index
+#                                     root GET  /                                                                                                 redirect(301, /chocolates)
 #         turbo_recede_historical_location GET  /recede_historical_location(.:format)                                                             turbo/native/navigation#recede
 #         turbo_resume_historical_location GET  /resume_historical_location(.:format)                                                             turbo/native/navigation#resume
 #        turbo_refresh_historical_location GET  /refresh_historical_location(.:format)                                                            turbo/native/navigation#refresh
@@ -40,12 +41,6 @@ Rails.application.routes.draw do
   # Can be used by load balancers and uptime monitors to verify that the app is live.
   get "up" => "rails/health#show", as: :rails_health_check
 
-  # All APIs should be JSON only.
-  constraints ->(req) { req.format == :json } do
-    namespace :api do
-      namespace :v1 do
-        get "chocolates" => "chocolates#index"
-      end
-    end
-  end
+  get "chocolates" => "chocolates#index"
+  root to: redirect("/chocolates")
 end

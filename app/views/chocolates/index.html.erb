@@ -1,0 +1,58 @@
+<% content_for :head do %>
+  <%= javascript_import_module_tag "datatables.net-dt" %>
+  <%= javascript_import_module_tag "datatables.net" %>
+  <%= stylesheet_link_tag "https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" %>
+<% end %>
+
+<h1>Chocolates</h1>
+
+<div id="chocolates" style="overflow: scroll">
+  <table id="chocolates_catalog" class="display" style="width: 1200px">
+    <thead>
+    <tr>
+      <th>Image</th>
+      <th>Name</th>
+      <th>Form Factor</th>
+      <th>Cacao %</th>
+      <th>Maker</th>
+      <th>Maker City</th>
+      <th>Maker Region</th>
+      <th>Maker Country</th>
+      <th>Origin</th>
+      <th>Origin Country</th>
+      <th>Made in Origin</th>
+      <th>Ingredients</th>
+      <th>Food Tags</th>
+    </tr>
+    </thead>
+    <tbody>
+  <% @chocolates.each do |choco| %>
+    <tr>
+      <td><%= image_tag(choco.front_img_url, size: 50) %></td>
+      <td><%= choco.name %></td>
+      <td><%= choco.form_factor %></td>
+      <td><%= choco.cacao_percentage %></td>
+      <td><%= choco.maker.name %></td>
+      <td><%= choco.maker.city %></td>
+      <td><%= choco.maker.region %></td>
+      <td><%= choco.maker.country %></td>
+      <td><%= choco.cacao_origins.map(&:name).join(" | ") %></td>
+      <td><%= choco.cacao_origins.map(&:country).join(", ") %></td>
+      <td><%= choco.made_in_origin %></td>
+      <td><%= choco.ingredients.map(&:name).join(", ") %></td>
+      <td><%= choco.food_tags.join(", ") %></td>
+    </tr>
+  <% end %>
+    </tbody>
+</div>
+
+<script type="module">
+  import DataTable from 'datatables.net-dt';
+  
+  let table = new DataTable('#chocolates_catalog', {
+      lengthMenu: [
+        [50, 100, -1],
+        [50, 100, 'All'],
+      ]
+  });
+</script>
