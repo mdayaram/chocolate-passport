@@ -1,0 +1,5 @@
+#!/usr/bin/env bash -euxo pipefail
+
+PROJECT_ROOT=$( cd "$(dirname "${BASH_SOURCE[0]}")/.." ; pwd -P )
+cp "$PROJECT_ROOT/storage/development.sqlite3" "$PROJECT_ROOT/storage/production.sqlite3"
+fly deploy

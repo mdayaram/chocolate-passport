@@ -63,6 +63,9 @@ group :development do
 
   # Manage git commit hooks [https://github.com/sds/overcommit]
   gem "overcommit", require: false
+
+  # For deploying into fly.io [https://github.com/fly-apps/dockerfile-rails]
+  gem "dockerfile-rails", ">= 1.6"
 end
 
 group :test do
