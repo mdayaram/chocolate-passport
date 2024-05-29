@@ -4,7 +4,14 @@
   <%= stylesheet_link_tag "https://cdn.datatables.net/2.0.8/css/dataTables.bulma.css" %>
 <% end %>
 
-<h1 class="title is-1">Chocolates</h1>
+<section class="hero">
+  <div class="hero-body">
+    <p class="title">Chocolates Catalog</p>
+  </div>
+</section>
+
+<section id="filters">
+</section>
 
 <div id="chocolates" style="overflow: scroll">
   <table id="chocolates_catalog" class="display" style="width: 1200px">
@@ -51,8 +58,39 @@
   
   let table = new DataTable('#chocolates_catalog', {
       lengthMenu: [
-        [50, 100, -1],
-        [50, 100, 'All'],
+        [10, 50, 100, -1],
+        [10, 50, 100, 'All'],
       ]
   });
+ 
+  let filters = $("#filters");
+
+  table.columns().flatten().each( function ( colIdx ) {
+    var skipFilterColumns = ["Image", "Name"];
+    var headerText = $(table.column(colIdx).header()).text()
+    if (skipFilterColumns.indexOf(headerText) >= 0) { return; }
+    
+    // Don't add filters for the img and name columns 
+    // Create the select list and search operation
+    var labelTagName = headerText.toLowerCase().replace(/ /g,"_")
+    var label = $(`<label for="${labelTagName}">${headerText}:</label>`).appendTo(filters);
+    var select = $(`<select id="${labelTagName}"/>`)
+      .appendTo(filters)
+      .on( 'change', function () {
+          table
+            .column( colIdx )
+            .search( $(this).val() )
+            .draw();
+        } );
+
+    // Get the search data for the first column and add to the select list
+    table
+        .column( colIdx )
+        .cache( 'search' )
+        .sort()
+        .unique()
+        .each( function ( d ) {
+            select.append( $('<option value="'+d+'">'+d+'</option>') );
+        } );
+  } );
 </script>
