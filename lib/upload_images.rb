@@ -3,8 +3,8 @@
 require "fileutils"
 
 class UploadImages
-  S3_UPLOAD_DIR = Pathname.new("catalog")
-  IMG_BASE_URL = Pathname.new("https://chocolate-covered-sf.s3.us-west-2.amazonaws.com").join(S3_UPLOAD_DIR)
+  S3_UPLOAD_DIR = Pathname.new("apple")
+  IMG_BASE_URL = Pathname.new("https://s3.chocolatepassport.app").join(S3_UPLOAD_DIR)
   IMG1_TO_UPLOAD_DIR = Rails.root.join("tmp", "chocolates", "imgs1")
   IMG2_TO_UPLOAD_DIR = Rails.root.join("tmp", "chocolates", "imgs2")
   IMG1_DONE_DIR = Rails.root.join("tmp", "chocolates", "done1")

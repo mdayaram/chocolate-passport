@@ -68,6 +68,8 @@ makers.each do |notion_id, mak|
 end
 
 chocolates = JSON.parse(File.read(chocolates_file))
+old_domain = "https://chocolate-covered-sf.s3.us-west-2.amazonaws.com"
+new_domain = "https://s3.chocolatepassport.app"
 chocolate_progress = progressbar("Chocolates", chocolates.size)
 chocolates.each do |notion_id, choco|
   origins = CacaoOrigin.where(notion_id: choco["cacao_origin_id"])
@@ -79,14 +81,17 @@ chocolates.each do |notion_id, choco|
   raise "failed maker check" if makers.size != choco["maker_id"].size && makers.size == 1
   raise "failed ingredient check" if ingredients.size != choco["ingredient_ids"].size
 
+  front_url = choco["front_img_url"].gsub(old_domain, new_domain)
+  back_url = choco["back_img_url"]&.gsub(old_domain, new_domain)
+
   nchoc = Chocolate.create!(
     notion_id: notion_id,
     name: choco["name"],
     created_at: choco["created_at"],
     updated_at: choco["updated_at"],
     maker: makers.first,
-    front_img_url: choco["front_img_url"],
-    back_img_url: choco["back_img_url"],
+    front_img_url: front_url,
+    back_img_url: back_url,
     form_factor: choco["form_factor"],
     cacao_percentage: choco["cacao_percentage"].nil? ? nil : (choco["cacao_percentage"] * 100).to_i,
   )
