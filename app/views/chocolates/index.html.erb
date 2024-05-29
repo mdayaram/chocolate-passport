@@ -10,11 +10,21 @@
   </div>
 </section>
 
-<section id="filters">
+<section class="section">
+  <div class="container is-fluid">
+  <div id="filters" class="select">
+    <label class="label" for="form_factor">Form Factor:</label>
+    <select id="form_factor">
+      <option value=""></option>
+    </select>
+  </div>
+  </div>
 </section>
 
-<div id="chocolates" style="overflow: scroll">
-  <table id="chocolates_catalog" class="display" style="width: 1200px">
+<section class="section">
+<div class="container is-fluid">
+<div id="chocolates" class="table-container">
+  <table id="chocolates_catalog" class="display table is-bordered is-striped is-hoverable is-fullwidth">
     <thead>
     <tr>
       <th>Image</th>
@@ -52,6 +62,8 @@
   <% end %>
     </tbody>
 </div>
+</div>
+</section>
 
 <script type="module">
   import DataTable from 'datatables.net-dt';
@@ -63,8 +75,31 @@
       ]
   });
  
+  function getColumnIndexByTitle(title) {
+    var headers = table.columns().header();
+    for (var i = 0; i < headers.length; i++) {
+        if ($(headers[i]).text() === title) {
+            return i;
+        }
+    }
+    return -1; // Return -1 if the title is not found
+  }
+
   let filters = $("#filters");
 
+  // form factor filter
+  let formFactorCol = getColumnIndexByTitle("Form Factor");
+  let formFactorSelect = $("#form_factor");
+  formFactorSelect.on("change", function() {
+    table.column(formFactorCol).search($(this).val()).draw();
+  });
+  table.column(formFactorCol).cache('search').sort().unique().each(function (v) {
+    formFactorSelect.append(
+      $(`<option value="${v}">${v}</option>`)
+    );
+  });
+
+  /* Keeping this around for reference...
   table.columns().flatten().each( function ( colIdx ) {
     var skipFilterColumns = ["Image", "Name"];
     var headerText = $(table.column(colIdx).header()).text()
@@ -73,8 +108,8 @@
     // Don't add filters for the img and name columns 
     // Create the select list and search operation
     var labelTagName = headerText.toLowerCase().replace(/ /g,"_")
-    var label = $(`<label for="${labelTagName}">${headerText}:</label>`).appendTo(filters);
-    var select = $(`<select id="${labelTagName}"/>`)
+    var label = $(`<label class="label" for="${labelTagName}">${headerText}:</label>`).appendTo(filters);
+    var select = $(`<select id="${labelTagName}" />`)
       .appendTo(filters)
       .on( 'change', function () {
           table
@@ -92,5 +127,5 @@
         .each( function ( d ) {
             select.append( $('<option value="'+d+'">'+d+'</option>') );
         } );
-  } );
+  } );*/
 </script>
