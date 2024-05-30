@@ -1,4 +1,5 @@
 <% content_for :head do %>
+  <%= javascript_import_module_tag "lazyload" %>
   <%= javascript_import_module_tag "datatables.net-dt" %>
   <%= javascript_import_module_tag "datatables.net" %>
   <%= stylesheet_link_tag "https://cdn.datatables.net/2.0.8/css/dataTables.bulma.css" %>
@@ -45,7 +46,7 @@
     <tbody>
   <% @chocolates.each do |choco| %>
     <tr>
-      <td><%= image_tag(choco.front_img_url, size: 50) %></td>
+      <td><%= image_tag("https://img.spacergif.org/spacer.gif", class: "lazyload", size: 50, data: { src: choco.front_img_url }) %></td>
       <td><%= choco.name %></td>
       <td><%= choco.form_factor %></td>
       <td><%= choco.cacao_percentage %></td>
@@ -66,6 +67,8 @@
 </section>
 
 <script type="module">
+  lazyload(); // don't load images that are hidden from view.
+
   import DataTable from 'datatables.net-dt';
   
   let table = new DataTable('#chocolates_catalog', {
