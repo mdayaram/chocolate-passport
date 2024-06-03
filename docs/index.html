@@ -90,36 +90,44 @@
         lengthMenu: [
             [10, 50, 100, -1],
             [10, 50, 100, 'All'],
-          ]
+          ],
+        initComplete: (settings, json) => onTableLoad(),
       });
 
-      // Setup filters
+      function onTableLoad() {
+        // Only load image that are visible
+        lazyload();
+
+        // Setup filters
+        setupFilters();
+      }
+
       function getColumnIndexByTitle(title) {
         var headers = table.columns().header();
         for (var i = 0; i < headers.length; i++) {
-            if ($(headers[i]).text() === title) {
+            if (headers[i].innerText === title) {
                 return i;
             }
         }
         return -1; // Return -1 if the title is not found
       }
 
-      let filters = $("#filters");
+      function setupFilters() {
+        let filters = $("#filters");
 
-      // form factor filter
-      let formFactorCol = getColumnIndexByTitle("Form Factor");
-      let formFactorSelect = $("#form_factor");
-      formFactorSelect.on("change", function() {
-        table.column(formFactorCol).search($(this).val()).draw();
-      });
-      table.column(formFactorCol).cache('search').sort().unique().each(function (v) {
-        formFactorSelect.append(
-          $(`<option value="${v}">${v}</option>`)
-        );
-      });
-
-      // Only load images that are visible.
-      lazyload();
+        // form factor filter
+        let formFactorCol = getColumnIndexByTitle("Form Factor");
+        let formFactorSelect = $("#form_factor");
+        formFactorSelect.on("change", function() {
+          table.column(formFactorCol).search($(this).val()).draw();
+        });
+        table.column(formFactorCol).cache('search').sort().unique().each(function (v) {
+          let option = document.createElement("option");
+          option.value = v
+          option.text = v
+          formFactorSelect.append(option);
+        });
+      }
     </script>
 
     <!--
