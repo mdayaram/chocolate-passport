@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chocolate Catalog</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <script type="importmap">
+    {
+      "imports": {
+        "jquery": "https://ga.jspm.io/npm:jquery@3.7.1/dist/jquery.js",
+        "datatables.net-dt": "https://ga.jspm.io/npm:datatables.net-dt@2.0.8/js/dataTables.dataTables.mjs",
+        "datatables.net": "https://ga.jspm.io/npm:datatables.net@2.0.8/js/dataTables.mjs",
+        "lazyload": "https://ga.jspm.io/npm:lazyload@2.0.0-rc.2/lazyload.js"
+      }
+    }
+    </script>
+    <link rel="modulepreload" href="https://ga.jspm.io/npm:jquery@3.7.1/dist/jquery.js">
+
+    <script type="module">import "lazyload"</script>
+    <script type="module">import "datatables.net-dt"</script>
+    <script type="module">import "datatables.net"</script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.bulma.css" />
+  </head>
+
+  <body>
+
+    <section class="hero">
+      <div class="hero-body">
+        <p class="title">Chocolates Catalog</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container is-fluid">
+      <div id="filters">
+        <label for="form_factor">Form Factor:</label>
+        <select id="form_factor">
+          <option value=""></option>
+        </select>
+      </div>
+      </div>
+    </section>
+
+    <section class="section">
+    <div class="container is-fluid">
+    <div id="chocolates" class="table-container">
+      <table id="chocolates_catalog" class="display table is-bordered is-striped is-hoverable is-fullwidth"></table>
+    </div>
+    </div>
+    </section>
+
+    <script type="module">
+      // Setup table from JSON data.
+      import $ from 'jquery';
+      import DataTable from 'datatables.net-dt';
+      let table = new DataTable('#chocolates_catalog', {
+        ajax: {
+          url: 'api/v1/chocolates.json',
+          dataSrc: '',
+        },
+        columns: [
+          {
+            title: "Image",
+            data: "front_img_url",
+            render: function(data, type, row) {
+              let img = $('<img>', {
+                src: "https://img.spacergif.org/spacer.gif",
+                'data-src': data,
+                class: 'lazyload',
+                width: 50
+              });
+              return img.prop('outerHTML');
+            }
+          },
+          { title: "Maker", data: "maker.name" },
+          { title: "Name", data: "name" },
+          { title: "Form Factor", data: "form_factor" },
+          { title: "Cacao %", data: "cacao_percentage", render: (data, type, row) => data + "%" },
+          { title: "Maker City", data: "maker.city" },
+          { title: "Maker Region", data: "maker.region" },
+          { title: "Maker Country", data: "maker.country" },
+          { title: "Cacao Origins", data: "cacao_origins", render: (data, type, row) => data.map((o) => o.name).join(" | ") },
+          { title: "Cacao Origin Countries", data: "cacao_origins", render: (data, type, row) => data.map((o) => o.country).join(" | ") },
+          { title: "Made in Origin", data: "made_in_origin" },
+          { title: "Ingredients", data: "ingredients", render: (data, type, row) => data.join(", ") },
+          { title: "Food Tags", data: "food_tags", render: (data, type, row) => data.join(", ") }
+        ],
+        lengthMenu: [
+            [10, 50, 100, -1],
+            [10, 50, 100, 'All'],
+          ],
+        initComplete: (settings, json) => onTableLoad(),
+      });
+
+      function onTableLoad() {
+        // Only load image that are visible
+        lazyload();
+
+        // Setup filters
+        setupFilters();
+      }
+
+      function getColumnIndexByTitle(title) {
+        var headers = table.columns().header();
+        for (var i = 0; i < headers.length; i++) {
+            if (headers[i].innerText === title) {
+                return i;
+            }
+        }
+        return -1; // Return -1 if the title is not found
+      }
+
+      function setupFilters() {
+        let filters = $("#filters");
+
+        // form factor filter
+        let formFactorCol = getColumnIndexByTitle("Form Factor");
+        let formFactorSelect = $("#form_factor");
+        formFactorSelect.on("change", function() {
+          table.column(formFactorCol).search($(this).val()).draw();
+        });
+        table.column(formFactorCol).cache('search').sort().unique().each(function (v) {
+          let option = document.createElement("option");
+          option.value = v
+          option.text = v
+          formFactorSelect.append(option);
+        });
+      }
+    </script>
+
+    <!--
+    <script type="module">
+      /* Keeping this around for reference...
+      table.columns().flatten().each( function ( colIdx ) {
+        var skipFilterColumns = ["Image", "Name"];
+        var headerText = $(table.column(colIdx).header()).text()
+        if (skipFilterColumns.indexOf(headerText) >= 0) { return; }
+        
+        // Don't add filters for the img and name columns 
+        // Create the select list and search operation
+        var labelTagName = headerText.toLowerCase().replace(/ /g,"_")
+        var label = $(`<label class="label" for="${labelTagName}">${headerText}:</label>`).appendTo(filters);
+        var select = $(`<select id="${labelTagName}" />`)
+          .appendTo(filters)
+          .on( 'change', function () {
+              table
+                .column( colIdx )
+                .search( $(this).val() )
+                .draw();
+            } );
+
+        // Get the search data for the first column and add to the select list
+        table
+            .column( colIdx )
+            .cache( 'search' )
+            .sort()
+            .unique()
+            .each( function ( d ) {
+                select.append( $('<option value="'+d+'">'+d+'</option>') );
+            } );
+      } );*/
+    </script>
+
+    -->
+  </body>
+</html>

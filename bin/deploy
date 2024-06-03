@@ -1,5 +1,37 @@
-#!/usr/bin/env bash -euxo pipefail
+#!/usr/bin/env bash
 
 PROJECT_ROOT=$( cd "$(dirname "${BASH_SOURCE[0]}")/.." ; pwd -P )
-cp "$PROJECT_ROOT/storage/development.sqlite3" "$PROJECT_ROOT/storage/production.sqlite3"
-fly deploy
+
+# If there are other git changes, exit early. Force dev to commit changes first.
+clean=$(git status | grep "nothing to commit")
+if [ -z "$clean" ]; then
+    echo "Please commit your current changes first before deploying."
+    echo "Exiting..."
+    exit 1
+fi
+
+# Add this back once we no longer need the redirect from /chocolates => /
+# rm -rf docs/*
+cp -R ./public/* ./docs
+
+if [ $# -eq 0 ]; then
+  deploy_msg="deploy"
+else
+  deploy_msg="deploy: $@"
+fi
+
+git diff
+git status
+read -p "Diff looks good? (y/N): " -n 1 -r
+echo ""
+if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+  echo "Exiting early..."
+  exit 1
+fi
+
+echo "Diff looks good! Deploying..."
+echo "$deploy_msg"
+
+git add .
+git commit -m "$deploy_msg"
+git push
