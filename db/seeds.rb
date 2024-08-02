@@ -17,6 +17,10 @@ def progressbar(name, count)
   ProgressBar.create(title: "db:seed #{name}", total: count, format: "%t: [%c/%C] |%B|")
 end
 
+def log(msg)
+  puts msg # rubocop:disable Rails/Output
+end
+
 import_files_dir = Rails.root.join("db", "seeds")
 ingredients_file = import_files_dir.join("ingredients.json").to_s
 origins_file = import_files_dir.join("origins.json").to_s
@@ -101,3 +105,34 @@ chocolates.each do |notion_id, choco|
   nchoc.save!
   chocolate_progress.increment
 end
+
+# Writing static json api.
+log "Writing chocolates into static json API..."
+chocolates = chocolates = Chocolate.includes(:maker, :cacao_origins, { ingredients: :food_tags }).all
+chocolates_json = Jbuilder.encode do |json|
+  json.array! chocolates do |bar|
+    json.name bar.name
+    json.form_factor bar.form_factor
+    json.cacao_percentage bar.cacao_percentage
+    json.front_img_url bar.front_img_url
+    json.back_img_url bar.back_img_url
+
+    json.maker bar.maker, :name, :city, :region, :country
+
+    json.cacao_origins do
+      json.array! bar.cacao_origins, :name, :city, :region, :country
+    end
+
+    json.made_in_origin bar.made_in_origin
+    json.ingredients bar.ingredients.map(&:name)
+    json.food_tags bar.food_tags
+    json.created_at bar.created_at
+    json.updated_at bar.updated_at
+  end
+end
+
+# parse and re-generate in order to get pretty print since jbuilder doesn't support it.
+chocolates_json = JSON.pretty_generate(JSON.parse(chocolates_json))
+static_api_file = Rails.root.join("docs", "api", "v1", "chocolates.json")
+File.write(static_api_file, chocolates_json)
+log "Done!"
