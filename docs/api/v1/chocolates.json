@@ -1,5 +1,175 @@
 [
   {
+    "name": "Ecuador 70% Dark Chocolate with Macadamia Nuts and Sea Salt",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204021540.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204026350.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Valley Isle",
+      "city": "Maui",
+      "region": "Hawai'i",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Ecuador",
+        "city": null,
+        "region": null,
+        "country": "Ecuador"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Sea Salt",
+      "Macadamia Nuts",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Nuts",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-17T02:10:00.000Z",
+    "updated_at": "2024-08-17T02:18:00.000Z"
+  },
+  {
+    "name": "Ua ",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204011486.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204015733.PORTRAIT.jpg",
+    "maker": {
+      "name": "Valley Isle",
+      "city": "Maui",
+      "region": "Hawai'i",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Ua Hānai Orchards, Hilo, Hawaii",
+        "city": "Hilo",
+        "region": "Hawai'i",
+        "country": "USA"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-17T02:10:00.000Z",
+    "updated_at": "2024-08-17T02:20:00.000Z"
+  },
+  {
+    "name": "Oahu North Shore 70% Dark Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204000601.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204005116.PORTRAIT.jpg",
+    "maker": {
+      "name": "Valley Isle",
+      "city": "Maui",
+      "region": "Hawai'i",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Oahu North Shore, Hawaii",
+        "city": "Oahu",
+        "region": "Hawai'i",
+        "country": "USA"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-17T02:10:00.000Z",
+    "updated_at": "2024-08-17T02:22:00.000Z"
+  },
+  {
+    "name": "Kona Hawaii 70% Dark Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_203950500.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_203955049.PORTRAIT.jpg",
+    "maker": {
+      "name": "Valley Isle",
+      "city": "Maui",
+      "region": "Hawai'i",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kona, Hawaii",
+        "city": "Big Island",
+        "region": "Hawai'i",
+        "country": "USA"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-17T02:10:00.000Z",
+    "updated_at": "2024-08-17T02:24:00.000Z"
+  },
+  {
+    "name": "Kona Milk Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": null,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_203937669.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_203943582.PORTRAIT.jpg",
+    "maker": {
+      "name": "Valley Isle",
+      "city": "Maui",
+      "region": "Hawai'i",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kona, Hawaii",
+        "city": "Big Island",
+        "region": "Hawai'i",
+        "country": "USA"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Dairy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-17T02:10:00.000Z",
+    "updated_at": "2024-08-17T02:25:00.000Z"
+  },
+  {
     "name": "Costa Rica, Guatuso 71% Cacao",
     "form_factor": "Bar",
     "cacao_percentage": 71,
@@ -24807,7 +24977,7 @@
     "form_factor": "Confection",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/_1_PXL_20240309_011612085.PORTRAIT.jpg",
-    "back_img_url": null,
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_202625910.jpg",
     "maker": {
       "name": "Kopper's",
       "city": "Cranford",
@@ -24833,7 +25003,7 @@
       "Sugar"
     ],
     "created_at": "2024-03-09T06:19:00.000Z",
-    "updated_at": "2024-07-04T07:20:00.000Z"
+    "updated_at": "2024-08-17T02:14:00.000Z"
   },
   {
     "name": "Ultimate Malt Balls",
@@ -24876,7 +25046,7 @@
     "form_factor": "Confection",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/_1_PXL_20240309_011601422.PORTRAIT.jpg",
-    "back_img_url": null,
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_191721870.jpg",
     "maker": {
       "name": "Kopper's",
       "city": "Cranford",
@@ -24903,7 +25073,7 @@
       "Sugar"
     ],
     "created_at": "2024-03-09T06:19:00.000Z",
-    "updated_at": "2024-07-04T07:20:00.000Z"
+    "updated_at": "2024-08-17T02:14:00.000Z"
   },
   {
     "name": "Peanut Butter Malt Balls",

@@ -1,4 +1,107 @@
 {
+  "2a23e33b-0845-4a0f-b43c-bf2c1910da0a": {
+    "name": "Ecuador 70% Dark Chocolate with Macadamia Nuts and Sea Salt",
+    "created_at": "2024-08-17T02:10:00.000Z",
+    "updated_at": "2024-08-17T02:18:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204021540.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204026350.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "9b984835-1c83-4092-b093-777803d268a9"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "c5bada4b-8b34-4266-aada-e8e3471518e2"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "525d2103-09f9-4b7d-96c2-a48a9fd678d3",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6"
+    ]
+  },
+  "44454573-c1f6-4d88-a7be-c2a3659be81e": {
+    "name": "Ua ",
+    "created_at": "2024-08-17T02:10:00.000Z",
+    "updated_at": "2024-08-17T02:20:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204011486.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204015733.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "25863ed3-f4d6-477e-a007-b2f006e49258"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "c5bada4b-8b34-4266-aada-e8e3471518e2"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59"
+    ]
+  },
+  "b7a4a324-6d6b-4491-8f10-270fd43dffe0": {
+    "name": "Oahu North Shore 70% Dark Chocolate",
+    "created_at": "2024-08-17T02:10:00.000Z",
+    "updated_at": "2024-08-17T02:22:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204000601.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_204005116.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "ad15f748-e80a-4bae-86db-5de1513e42bf"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "c5bada4b-8b34-4266-aada-e8e3471518e2"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59"
+    ]
+  },
+  "78fa430b-6a98-4624-a000-36fee3ac9ded": {
+    "name": "Kona Hawaii 70% Dark Chocolate",
+    "created_at": "2024-08-17T02:10:00.000Z",
+    "updated_at": "2024-08-17T02:24:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_203950500.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_203955049.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "2fac0b1a-d925-43ab-8df8-bd6db59d620b"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "c5bada4b-8b34-4266-aada-e8e3471518e2"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59"
+    ]
+  },
+  "3c159ed0-473e-4d82-8334-3a3aea2c56d7": {
+    "name": "Kona Milk Chocolate",
+    "created_at": "2024-08-17T02:10:00.000Z",
+    "updated_at": "2024-08-17T02:25:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_203937669.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_203943582.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "2fac0b1a-d925-43ab-8df8-bd6db59d620b"
+    ],
+    "cacao_percentage": null,
+    "maker_id": [
+      "c5bada4b-8b34-4266-aada-e8e3471518e2"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "821291d2-c7a2-43f9-a8b3-77750d10e055"
+    ]
+  },
   "8a358328-4f31-4b72-a2c9-716e6763e16d": {
     "name": "Costa Rica, Guatuso 71% Cacao",
     "created_at": "2024-08-02T04:29:00.000Z",
@@ -15134,9 +15237,9 @@
   "c66ddf5a-4dee-4646-8b36-9e176971a894": {
     "name": "Mint Malt Balls",
     "created_at": "2024-03-09T06:19:00.000Z",
-    "updated_at": "2024-07-04T07:20:00.000Z",
+    "updated_at": "2024-08-17T02:14:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/_1_PXL_20240309_011612085.PORTRAIT.jpg",
-    "back_img_url": null,
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_202625910.jpg",
     "form_factor": "Confection",
     "cacao_origin_id": [],
     "cacao_percentage": null,
@@ -15171,9 +15274,9 @@
   "33ad9e7a-1152-4779-8ad3-187d80672507": {
     "name": "Dark Malt Balls",
     "created_at": "2024-03-09T06:19:00.000Z",
-    "updated_at": "2024-07-04T07:20:00.000Z",
+    "updated_at": "2024-08-17T02:14:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/_1_PXL_20240309_011601422.PORTRAIT.jpg",
-    "back_img_url": null,
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240816_191721870.jpg",
     "form_factor": "Confection",
     "cacao_origin_id": [],
     "cacao_percentage": null,

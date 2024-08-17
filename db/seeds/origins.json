@@ -1,4 +1,28 @@
 {
+  "2fac0b1a-d925-43ab-8df8-bd6db59d620b": {
+    "name": "Kona, Hawaii",
+    "created_at": "2024-08-17T02:22:00.000Z",
+    "updated_at": "2024-08-17T02:23:00.000Z",
+    "city": "Big Island",
+    "region": "Hawai'i",
+    "country": "USA"
+  },
+  "ad15f748-e80a-4bae-86db-5de1513e42bf": {
+    "name": "Oahu North Shore, Hawaii",
+    "created_at": "2024-08-17T02:21:00.000Z",
+    "updated_at": "2024-08-17T02:22:00.000Z",
+    "city": "Oahu",
+    "region": "Hawai'i",
+    "country": "USA"
+  },
+  "25863ed3-f4d6-477e-a007-b2f006e49258": {
+    "name": "Ua H\u0101nai Orchards, Hilo, Hawaii",
+    "created_at": "2024-08-17T02:20:00.000Z",
+    "updated_at": "2024-08-17T02:20:00.000Z",
+    "city": "Hilo",
+    "region": "Hawai'i",
+    "country": "USA"
+  },
   "6641f22a-b324-4664-b94f-f6dc34aab354": {
     "name": "Guatuso, Costa Rica",
     "created_at": "2024-08-02T04:32:00.000Z",
