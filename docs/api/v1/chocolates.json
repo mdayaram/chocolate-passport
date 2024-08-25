@@ -1,5 +1,410 @@
 [
   {
+    "name": "Philippines 72%",
+    "form_factor": "Bar",
+    "cacao_percentage": 72,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_222745399.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_222748921.PORTRAIT.jpg",
+    "maker": {
+      "name": "Castronovo",
+      "city": "Stuart",
+      "region": "Florida",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kablon Farms, Philippines",
+        "city": "Koronadal",
+        "region": null,
+        "country": "Philippines"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:40:00.000Z",
+    "updated_at": "2024-08-25T15:50:00.000Z"
+  },
+  {
+    "name": "Arhuacos Dark Milk with Sea Salt 60%",
+    "form_factor": "Bar",
+    "cacao_percentage": 60,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_222733888.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_222740134.PORTRAIT.jpg",
+    "maker": {
+      "name": "Castronovo",
+      "city": "Stuart",
+      "region": "Florida",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Arhuaco, Sierra Nevada",
+        "city": "Arhuaco",
+        "region": "Sierra Nevada de Santa Marta",
+        "country": "Colombia"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Sea Salt",
+      "Whole Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Dairy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:40:00.000Z",
+    "updated_at": "2024-08-25T15:51:00.000Z"
+  },
+  {
+    "name": "Vietnam 100%",
+    "form_factor": "Bar",
+    "cacao_percentage": 100,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191333108.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191339296.PORTRAIT.jpg",
+    "maker": {
+      "name": "Seahorse",
+      "city": "Bend",
+      "region": "Oregon",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Tien Giang, Vietnam",
+        "city": null,
+        "region": "Tien Giang",
+        "country": "Vietnam"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cacao"
+    ],
+    "food_tags": [
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:40:00.000Z",
+    "updated_at": "2024-08-25T15:40:00.000Z"
+  },
+  {
+    "name": "Left of the Dial",
+    "form_factor": "Bar",
+    "cacao_percentage": 78,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191323509.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191327302.PORTRAIT.jpg",
+    "maker": {
+      "name": "Seahorse",
+      "city": "Bend",
+      "region": "Oregon",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:43:00.000Z"
+  },
+  {
+    "name": "Vietnam, Dak Lak 70%",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191133799.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191136650.PORTRAIT.jpg",
+    "maker": {
+      "name": "Seahorse",
+      "city": "Bend",
+      "region": "Oregon",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Tien Giang, Vietnam",
+        "city": null,
+        "region": "Tien Giang",
+        "country": "Vietnam"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cacao"
+    ],
+    "food_tags": [
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:44:00.000Z"
+  },
+  {
+    "name": "Peru, Ucayali River 70%",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191122131.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191125981.PORTRAIT.jpg",
+    "maker": {
+      "name": "Seahorse",
+      "city": "Bend",
+      "region": "Oregon",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Ucayali, Peru",
+        "city": null,
+        "region": "Ucayali",
+        "country": "Peru"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:44:00.000Z"
+  },
+  {
+    "name": "Mountain Trip Orange & Almonds Milk Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 50,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191047801.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191051143.PORTRAIT.jpg",
+    "maker": {
+      "name": "Fjak",
+      "city": null,
+      "region": "Hardangerfjord",
+      "country": "Norway"
+    },
+    "cacao_origins": [
+      {
+        "name": "Dominican Republic",
+        "city": null,
+        "region": null,
+        "country": "Dominican Republic"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Candied Orange Peel",
+      "Milk Powder",
+      "Almonds",
+      "Salt",
+      "Orange Oil",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Citrus",
+      "Fruits",
+      "Sugar",
+      "Dairy",
+      "Nuts",
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:56:00.000Z"
+  },
+  {
+    "name": "Wild Blueberry Milk Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 50,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191034152.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191037383.PORTRAIT.jpg",
+    "maker": {
+      "name": "Fjak",
+      "city": null,
+      "region": "Hardangerfjord",
+      "country": "Norway"
+    },
+    "cacao_origins": [
+      {
+        "name": "Madagascar",
+        "city": null,
+        "region": null,
+        "country": "Madagascar"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Blueberries",
+      "Vanilla",
+      "Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Dairy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:57:00.000Z"
+  },
+  {
+    "name": "Lingonberry & Reindeer Lichen 70% Dark",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191021086.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191024546.PORTRAIT.jpg",
+    "maker": {
+      "name": "Fjak",
+      "city": null,
+      "region": "Hardangerfjord",
+      "country": "Norway"
+    },
+    "cacao_origins": [
+      {
+        "name": "Madagascar",
+        "city": null,
+        "region": null,
+        "country": "Madagascar"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Reindeer Lichen",
+      "Lingonberries",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T16:01:00.000Z"
+  },
+  {
+    "name": "Vermouth O’Clock 60% Dark",
+    "form_factor": "Bar",
+    "cacao_percentage": 60,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191010110.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191014183.PORTRAIT.jpg",
+    "maker": {
+      "name": "Fjak",
+      "city": null,
+      "region": "Hardangerfjord",
+      "country": "Norway"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Vermouth",
+      "Olives",
+      "Fennel Seeds",
+      "Juniper Berries",
+      "Candied Orange Peel",
+      "Cinnamon",
+      "Orange Peel",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alcohol",
+      "Spices",
+      "Citrus",
+      "Fruits",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T16:03:00.000Z"
+  },
+  {
+    "name": "Dark Milk Vegan 65%",
+    "form_factor": "Bar",
+    "cacao_percentage": 65,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_190820637.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_190823725.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Seahorse",
+      "city": "Bend",
+      "region": "Oregon",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Ucayali, Peru",
+        "city": null,
+        "region": "Ucayali",
+        "country": "Peru"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:41:00.000Z"
+  },
+  {
+    "name": "Ginger Covered in Dark Chocolate",
+    "form_factor": "Confection",
+    "cacao_percentage": 69,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240817_190254468.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240817_190301063.PORTRAIT.jpg",
+    "maker": {
+      "name": "Monsoon",
+      "city": "Tucson",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Candied Ginger",
+      "Cocoa Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-18T22:35:00.000Z",
+    "updated_at": "2024-08-18T22:39:00.000Z"
+  },
+  {
     "name": "Ecuador 70% Dark Chocolate with Macadamia Nuts and Sea Salt",
     "form_factor": "Bar",
     "cacao_percentage": 70,
@@ -1293,7 +1698,7 @@
     "updated_at": "2024-07-04T19:23:00.000Z"
   },
   {
-    "name": "World Flavours: Espresso Bar",
+    "name": "Espresso Bar",
     "form_factor": "Bar",
     "cacao_percentage": 70,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240703_183628072.PORTRAIT.ORIGINAL.jpg",
@@ -1320,7 +1725,7 @@
       "Cacao"
     ],
     "created_at": "2024-07-04T07:47:00.000Z",
-    "updated_at": "2024-07-04T19:04:00.000Z"
+    "updated_at": "2024-08-25T15:52:00.000Z"
   },
   {
     "name": "Whole Milk Camel Milk Chocolate",
@@ -20319,7 +20724,7 @@
     "updated_at": "2024-07-04T07:17:00.000Z"
   },
   {
-    "name": "Bold & Boozy Norwegian Gin 60%",
+    "name": "Norwegian Gin 60%",
     "form_factor": "Bar",
     "cacao_percentage": 60,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_212024742.PORTRAIT.ORIGINAL.jpg",
@@ -20355,10 +20760,10 @@
       "Cacao"
     ],
     "created_at": "2024-04-04T04:05:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:53:00.000Z"
   },
   {
-    "name": "Bold & Boozy Hardanger Cider 70%",
+    "name": "Hardanger Cider 70%",
     "form_factor": "Bar",
     "cacao_percentage": 60,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211948025.PORTRAIT.ORIGINAL.jpg",
@@ -20392,10 +20797,10 @@
       "Cacao"
     ],
     "created_at": "2024-04-04T04:05:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:53:00.000Z"
   },
   {
-    "name": "The Cake Series: Black Forest Cherry Cake Milk Chocolate",
+    "name": "Black Forest Cherry Cake Milk Chocolate",
     "form_factor": "Bar",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211903571.PORTRAIT.jpg",
@@ -20425,10 +20830,10 @@
       "Cacao"
     ],
     "created_at": "2024-04-04T04:05:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:53:00.000Z"
   },
   {
-    "name": "Nordic Collection: Lingonberry White Chocolate",
+    "name": "Lingonberry White Chocolate",
     "form_factor": "Bar",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211851923.PORTRAIT.ORIGINAL.jpg",
@@ -20455,10 +20860,10 @@
       "Sugar"
     ],
     "created_at": "2024-04-04T04:05:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:53:00.000Z"
   },
   {
-    "name": "World Flavours: Sea Buckthorn & Matcha White Chocolate",
+    "name": "Sea Buckthorn & Matcha White Chocolate",
     "form_factor": "Bar",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211441259.PORTRAIT.jpg",
@@ -20489,10 +20894,10 @@
       "Sugar"
     ],
     "created_at": "2024-04-04T04:05:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:53:00.000Z"
   },
   {
-    "name": "Nordic Specials: Cinnamon Roll Milk Chocolate",
+    "name": "Cinnamon Roll Milk Chocolate",
     "form_factor": "Bar",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211426423.PORTRAIT.jpg",
@@ -20529,10 +20934,10 @@
       "Cacao"
     ],
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:53:00.000Z"
   },
   {
-    "name": "Nordic Collection: Norwegian Brown Cheese Milk Chocolate",
+    "name": "Norwegian Brown Cheese Milk Chocolate",
     "form_factor": "Bar",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211340742.PORTRAIT.jpg",
@@ -20566,10 +20971,10 @@
       "Cacao"
     ],
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:53:00.000Z"
   },
   {
-    "name": "Nordic Collection: Licorice Root & Sea Salt Milk Chocolate",
+    "name": "Licorice Root & Sea Salt Milk Chocolate",
     "form_factor": "Bar",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211256211.PORTRAIT.jpg",
@@ -20603,10 +21008,10 @@
       "Cacao"
     ],
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:53:00.000Z"
   },
   {
-    "name": "Nordic Collection: Mountain Trip Orange & Almonds Milk Chocolate",
+    "name": "Mountain Trip Orange & Almonds Milk Chocolate",
     "form_factor": "Bar",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211244632.PORTRAIT.ORIGINAL.jpg",
@@ -20644,10 +21049,10 @@
       "Cacao"
     ],
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:53:00.000Z"
   },
   {
-    "name": "The Cake Series: Blackcurrent Crumble White Chocolate",
+    "name": "Blackcurrent Crumble White Chocolate",
     "form_factor": "Bar",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211124187.PORTRAIT.ORIGINAL.jpg",
@@ -20678,10 +21083,10 @@
       "Sugar"
     ],
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:54:00.000Z"
   },
   {
-    "name": "Nordic Collection: 50% Milk Blueberry",
+    "name": "50% Milk Blueberry",
     "form_factor": "Bar",
     "cacao_percentage": 50,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211112325.PORTRAIT.ORIGINAL.jpg",
@@ -20716,7 +21121,7 @@
       "Cacao"
     ],
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z"
+    "updated_at": "2024-08-25T15:54:00.000Z"
   },
   {
     "name": "Caffe Latte Nono",

@@ -1,4 +1,252 @@
 {
+  "00398ac8-e407-4bc3-8cd7-1d9e9787893c": {
+    "name": "Philippines 72%",
+    "created_at": "2024-08-24T17:40:00.000Z",
+    "updated_at": "2024-08-25T15:50:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_222745399.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_222748921.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "7cdfc543-fe8f-4003-aa6a-23bfdd64e914"
+    ],
+    "cacao_percentage": 0.72,
+    "maker_id": [
+      "925c1c8d-788f-4168-aaa1-82d85d051085"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59"
+    ]
+  },
+  "a6548af4-62bf-45dd-a9ad-b0cc3eea6026": {
+    "name": "Arhuacos Dark Milk with Sea Salt 60%",
+    "created_at": "2024-08-24T17:40:00.000Z",
+    "updated_at": "2024-08-25T15:51:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_222733888.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_222740134.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "c5bb8f5c-55ba-4707-ac1b-2efa2b59245a"
+    ],
+    "cacao_percentage": 0.6,
+    "maker_id": [
+      "925c1c8d-788f-4168-aaa1-82d85d051085"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6",
+      "29f056a8-ba2f-4522-97e3-157a0b2a82f7"
+    ]
+  },
+  "7f37834d-8b88-428c-bcc9-b9f83ba6c756": {
+    "name": "Vietnam 100%",
+    "created_at": "2024-08-24T17:40:00.000Z",
+    "updated_at": "2024-08-25T15:40:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191333108.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191339296.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "63120d63-c7b6-4267-95d8-e07ff5164e24"
+    ],
+    "cacao_percentage": 1,
+    "maker_id": [
+      "605cc2f4-ef3a-4c20-9ae9-51b83bf8d6ef"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09"
+    ]
+  },
+  "feb1ec82-790b-43b8-9226-bc95d9b57614": {
+    "name": "Left of the Dial",
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:43:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191323509.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191327302.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.78,
+    "maker_id": [
+      "605cc2f4-ef3a-4c20-9ae9-51b83bf8d6ef"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22"
+    ]
+  },
+  "697e7c15-f308-4870-be10-da70aa15ca70": {
+    "name": "Vietnam, Dak Lak 70%",
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:44:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191133799.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191136650.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "63120d63-c7b6-4267-95d8-e07ff5164e24"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "605cc2f4-ef3a-4c20-9ae9-51b83bf8d6ef"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09"
+    ]
+  },
+  "5e0395a2-fa0f-4b32-955a-0d98278c2841": {
+    "name": "Peru, Ucayali River 70%",
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:44:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191122131.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191125981.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "7fd94076-e8dd-4c29-845b-4412218980d4"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "605cc2f4-ef3a-4c20-9ae9-51b83bf8d6ef"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22"
+    ]
+  },
+  "792f8742-6157-483e-a707-da17ae39f608": {
+    "name": "Mountain Trip Orange & Almonds Milk Chocolate",
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:56:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191047801.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191051143.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "7e2cd706-1518-4349-a09c-19651ee493fa"
+    ],
+    "cacao_percentage": 0.5,
+    "maker_id": [
+      "eba55ed6-8745-4002-ab99-4b7c36c675e7"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "821291d2-c7a2-43f9-a8b3-77750d10e055",
+      "24702a64-e10d-43fb-905d-05714a71538b",
+      "34af3a3a-de0f-4cbf-8ed9-335131a29c12",
+      "7913391f-709c-409e-bf61-dff92abdb08d",
+      "79289c23-08fb-47c3-9a45-5b3e90d06a76"
+    ]
+  },
+  "4532ac7b-ff81-492e-8a2a-cea5b04f38d6": {
+    "name": "Wild Blueberry Milk Chocolate",
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:57:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191034152.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191037383.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "d2c8a081-b573-411f-9c9c-9e9849408474"
+    ],
+    "cacao_percentage": 0.5,
+    "maker_id": [
+      "eba55ed6-8745-4002-ab99-4b7c36c675e7"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "83bd4e5a-4169-4186-9379-a1c553f2ff55",
+      "a14f9185-69e2-44f6-9ea0-c7517143856b",
+      "821291d2-c7a2-43f9-a8b3-77750d10e055"
+    ]
+  },
+  "1d63e485-ae15-4fd0-9e4a-cf9ffe51a75b": {
+    "name": "Lingonberry & Reindeer Lichen 70% Dark",
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T16:01:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191021086.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191024546.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "d2c8a081-b573-411f-9c9c-9e9849408474"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "eba55ed6-8745-4002-ab99-4b7c36c675e7"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "e8128adf-7964-473a-84cc-73a0ca7fe1c2",
+      "c5500624-2f9b-40ec-be57-8edf7f65fb9c"
+    ]
+  },
+  "8386c3da-7b33-4b85-aa5a-1b2a0f1d232d": {
+    "name": "Vermouth O\u2019Clock 60% Dark",
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T16:03:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191010110.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_191014183.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.6,
+    "maker_id": [
+      "eba55ed6-8745-4002-ab99-4b7c36c675e7"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "223cade2-e1cc-44f2-a7f7-cf8d67e47de5",
+      "bb6965b1-de6e-48a2-b7c8-54af5dfc0f47",
+      "79289c23-08fb-47c3-9a45-5b3e90d06a76",
+      "ec67770e-9c61-457c-80e7-40afe88bc1b2",
+      "b1070623-7f0a-4ad9-91c9-6e884ad2aea3",
+      "b95a922a-89ab-4c83-aeb1-b38206d913f0",
+      "8f665795-f5b1-4625-bc05-3344f07d2d6a"
+    ]
+  },
+  "c11ede2f-8967-4547-a48d-2100e78d185d": {
+    "name": "Dark Milk Vegan 65%",
+    "created_at": "2024-08-24T17:39:00.000Z",
+    "updated_at": "2024-08-25T15:41:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_190820637.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240823_190823725.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "7fd94076-e8dd-4c29-845b-4412218980d4"
+    ],
+    "cacao_percentage": 0.65,
+    "maker_id": [
+      "605cc2f4-ef3a-4c20-9ae9-51b83bf8d6ef"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22"
+    ]
+  },
+  "4fb483ca-397b-48a5-ad06-b6e566f2bd95": {
+    "name": "Ginger Covered in Dark Chocolate",
+    "created_at": "2024-08-18T22:35:00.000Z",
+    "updated_at": "2024-08-18T22:39:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240817_190254468.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240817_190301063.PORTRAIT.jpg",
+    "form_factor": "Confection",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.69,
+    "maker_id": [
+      "fe2e8ec5-d1c8-4495-bbe4-337b161ac8b0"
+    ],
+    "ingredient_ids": [
+      "4d133c4c-a7f1-4f0d-a99a-46f858e4ea44",
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "bc4f8149-b70d-466f-9ea6-089a7b7fc17a"
+    ]
+  },
   "2a23e33b-0845-4a0f-b43c-bf2c1910da0a": {
     "name": "Ecuador 70% Dark Chocolate with Macadamia Nuts and Sea Salt",
     "created_at": "2024-08-17T02:10:00.000Z",
@@ -791,9 +1039,9 @@
     ]
   },
   "fe58f012-d8d9-421f-9783-d2ad49c7a462": {
-    "name": "World Flavours: Espresso Bar",
+    "name": "Espresso Bar",
     "created_at": "2024-07-04T07:47:00.000Z",
-    "updated_at": "2024-07-04T19:04:00.000Z",
+    "updated_at": "2024-08-25T15:52:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240703_183628072.PORTRAIT.ORIGINAL.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240703_183636193.PORTRAIT.ORIGINAL.jpg",
     "form_factor": "Bar",
@@ -12356,9 +12604,9 @@
     ]
   },
   "e21d1415-9e5e-481d-8582-a49cc79b39f7": {
-    "name": "Bold & Boozy Norwegian Gin 60%",
+    "name": "Norwegian Gin 60%",
     "created_at": "2024-04-04T04:05:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:53:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_212024742.PORTRAIT.ORIGINAL.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_212030439.PORTRAIT.ORIGINAL.jpg",
     "form_factor": "Bar",
@@ -12379,9 +12627,9 @@
     ]
   },
   "1ff4578a-52e5-4f56-84f2-a3666d0eee24": {
-    "name": "Bold & Boozy Hardanger Cider 70%",
+    "name": "Hardanger Cider 70%",
     "created_at": "2024-04-04T04:05:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:53:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211948025.PORTRAIT.ORIGINAL.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211952309.PORTRAIT.jpg",
     "form_factor": "Bar",
@@ -12401,9 +12649,9 @@
     ]
   },
   "bbb22c70-8a09-46d7-a5f2-6f583ae10e8c": {
-    "name": "The Cake Series: Black Forest Cherry Cake Milk Chocolate",
+    "name": "Black Forest Cherry Cake Milk Chocolate",
     "created_at": "2024-04-04T04:05:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:53:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211903571.PORTRAIT.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211907349.PORTRAIT.jpg",
     "form_factor": "Bar",
@@ -12422,9 +12670,9 @@
     ]
   },
   "51fcbd17-61c7-43d9-b919-2c4a9cc341ab": {
-    "name": "Nordic Collection: Lingonberry White Chocolate",
+    "name": "Lingonberry White Chocolate",
     "created_at": "2024-04-04T04:05:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:53:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211851923.PORTRAIT.ORIGINAL.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211855833.PORTRAIT.jpg",
     "form_factor": "Bar",
@@ -12441,9 +12689,9 @@
     ]
   },
   "bb4bae47-da9b-4a29-b193-106d2f23e1d7": {
-    "name": "World Flavours: Sea Buckthorn & Matcha White Chocolate",
+    "name": "Sea Buckthorn & Matcha White Chocolate",
     "created_at": "2024-04-04T04:05:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:53:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211441259.PORTRAIT.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211445045.PORTRAIT.ORIGINAL.jpg",
     "form_factor": "Bar",
@@ -12462,9 +12710,9 @@
     ]
   },
   "204a30e5-5e2b-4d12-816c-7bdad5195bb1": {
-    "name": "Nordic Specials: Cinnamon Roll Milk Chocolate",
+    "name": "Cinnamon Roll Milk Chocolate",
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:53:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211426423.PORTRAIT.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211430651.PORTRAIT.jpg",
     "form_factor": "Bar",
@@ -12485,9 +12733,9 @@
     ]
   },
   "df0fe839-6e01-4fdf-a6f9-aac32aa27448": {
-    "name": "Nordic Collection: Norwegian Brown Cheese Milk Chocolate",
+    "name": "Norwegian Brown Cheese Milk Chocolate",
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:53:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211340742.PORTRAIT.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211349553.PORTRAIT.ORIGINAL.jpg",
     "form_factor": "Bar",
@@ -12508,9 +12756,9 @@
     ]
   },
   "4deae6e6-ea02-4471-904e-04997688e453": {
-    "name": "Nordic Collection: Licorice Root & Sea Salt Milk Chocolate",
+    "name": "Licorice Root & Sea Salt Milk Chocolate",
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:53:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211256211.PORTRAIT.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211300521.PORTRAIT.ORIGINAL.jpg",
     "form_factor": "Bar",
@@ -12531,9 +12779,9 @@
     ]
   },
   "e2e11de1-6ba5-40dc-9600-5fb9a0ed8ade": {
-    "name": "Nordic Collection: Mountain Trip Orange & Almonds Milk Chocolate",
+    "name": "Mountain Trip Orange & Almonds Milk Chocolate",
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:53:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211244632.PORTRAIT.ORIGINAL.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211249603.PORTRAIT.jpg",
     "form_factor": "Bar",
@@ -12555,9 +12803,9 @@
     ]
   },
   "d95401ec-a0f6-4d0b-8495-8890a63e27a8": {
-    "name": "The Cake Series: Blackcurrent Crumble White Chocolate",
+    "name": "Blackcurrent Crumble White Chocolate",
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:54:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211124187.PORTRAIT.ORIGINAL.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211129137.PORTRAIT.ORIGINAL.jpg",
     "form_factor": "Bar",
@@ -12577,9 +12825,9 @@
     ]
   },
   "0e3b5b67-6182-4020-acc1-b1972a26e362": {
-    "name": "Nordic Collection: 50% Milk Blueberry",
+    "name": "50% Milk Blueberry",
     "created_at": "2024-04-04T04:04:00.000Z",
-    "updated_at": "2024-07-04T07:17:00.000Z",
+    "updated_at": "2024-08-25T15:54:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211112325.PORTRAIT.ORIGINAL.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_211116075.PORTRAIT.ORIGINAL.jpg",
     "form_factor": "Bar",
