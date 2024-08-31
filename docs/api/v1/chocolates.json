@@ -1,5 +1,462 @@
 [
   {
+    "name": "Uganda 100%",
+    "form_factor": "Bar",
+    "cacao_percentage": 100,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_192649039.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_192654182.PORTRAIT.jpg",
+    "maker": {
+      "name": "Sirene",
+      "city": "Victoria",
+      "region": "British Columbia",
+      "country": "Canada"
+    },
+    "cacao_origins": [
+      {
+        "name": "Bundibugyo, Uganda",
+        "city": "Bundibugyo",
+        "region": "Semuliki Forest",
+        "country": "Uganda"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cacao"
+    ],
+    "food_tags": [
+      "Cacao"
+    ],
+    "created_at": "2024-09-01T02:56:00.000Z",
+    "updated_at": "2024-09-01T02:57:00.000Z"
+  },
+  {
+    "name": "Chuao 100%",
+    "form_factor": "Bar",
+    "cacao_percentage": 100,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_191902331.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_191907014.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Sirene",
+      "city": "Victoria",
+      "region": "British Columbia",
+      "country": "Canada"
+    },
+    "cacao_origins": [
+      {
+        "name": "Chuao, Venezuela",
+        "city": null,
+        "region": "Chuao",
+        "country": "Venezuela"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cacao"
+    ],
+    "food_tags": [
+      "Cacao"
+    ],
+    "created_at": "2024-09-01T02:55:00.000Z",
+    "updated_at": "2024-09-01T02:58:00.000Z"
+  },
+  {
+    "name": "Aged Madagascar 73%",
+    "form_factor": "Bar",
+    "cacao_percentage": 73,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_191757133.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_191802553.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Sirene",
+      "city": "Victoria",
+      "region": "British Columbia",
+      "country": "Canada"
+    },
+    "cacao_origins": [
+      {
+        "name": "Akesson’s Bejofo Estate, Madagascar",
+        "city": "Bejofo",
+        "region": "Sambirano",
+        "country": "Madagascar"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-09-01T02:55:00.000Z",
+    "updated_at": "2024-09-01T02:59:00.000Z"
+  },
+  {
+    "name": "The Drive In: Milk Chocolate Caramelized Popcorn",
+    "form_factor": "Bar",
+    "cacao_percentage": 44,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200550663.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200555369.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Caramel Popcorn",
+      "Milk Chocolate",
+      "Soy Lecithin",
+      "Butter"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Dairy",
+      "Emulsifier",
+      "Soy"
+    ],
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T16:51:00.000Z"
+  },
+  {
+    "name": "Rice Crispy Treat: Milk Chocolate Marshmallow Crispy Rice",
+    "form_factor": "Bar",
+    "cacao_percentage": 44,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200446981.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200451034.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Fructose",
+      "Marshmallow",
+      "Caramelized Puffed Rice",
+      "Milk Chocolate",
+      "Corn Syrup",
+      "Soy Lecithin",
+      "Butter"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Meat",
+      "Dairy",
+      "Emulsifier",
+      "Soy"
+    ],
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T16:54:00.000Z"
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "form_factor": "Bar",
+    "cacao_percentage": 44,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200357339.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200402225.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Chocolate Chip Cookies",
+      "Milk Chocolate",
+      "Soy Lecithin"
+    ],
+    "food_tags": [
+      "Cacao",
+      "Gluten",
+      "Sugar",
+      "Dairy",
+      "Emulsifier",
+      "Soy"
+    ],
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T16:56:00.000Z"
+  },
+  {
+    "name": "Maple Walnut Fudge: White Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 36,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200038311.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200042786.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Walnuts",
+      "White Chocolate",
+      "Soy Lecithin",
+      "Maple Syrup"
+    ],
+    "food_tags": [
+      "Nuts",
+      "Dairy",
+      "Sugar",
+      "Emulsifier",
+      "Soy",
+      "Alt-Sugar"
+    ],
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T16:58:00.000Z"
+  },
+  {
+    "name": "Lemon Shortbread: White Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 36,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195948954.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195953008.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Shortbread",
+      "Pectin",
+      "Lemon",
+      "White Chocolate",
+      "Soy Lecithin"
+    ],
+    "food_tags": [
+      "Dairy",
+      "Eggs",
+      "Gluten",
+      "Sugar",
+      "Citrus",
+      "Fruits",
+      "Emulsifier",
+      "Soy"
+    ],
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T17:00:00.000Z"
+  },
+  {
+    "name": "Pink Elephants: Dark Chocolate & Frosted Cookies",
+    "form_factor": "Bar",
+    "cacao_percentage": 73,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195859158.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195902835.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Artificial Colored Cookies",
+      "Dark Chocolate w/ Soy Lecithin"
+    ],
+    "food_tags": [
+      "Artificial Coloring",
+      "Dairy",
+      "Gluten",
+      "Sugar",
+      "Cacao",
+      "Emulsifier",
+      "Soy"
+    ],
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T17:03:00.000Z"
+  },
+  {
+    "name": "Pistachio Gelato: White Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 36,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195805383.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195812977.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Pistachios",
+      "White Chocolate",
+      "Sea Salt",
+      "Soy Lecithin"
+    ],
+    "food_tags": [
+      "Nuts",
+      "Dairy",
+      "Sugar",
+      "Emulsifier",
+      "Soy"
+    ],
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T17:03:00.000Z"
+  },
+  {
+    "name": "Mangoes & Chocolate",
+    "form_factor": "Confection",
+    "cacao_percentage": null,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195724411.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195730573.PORTRAIT.jpg",
+    "maker": {
+      "name": "Jade",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Sodium Metabisulphite",
+      "Dried Mango",
+      "Dark Chocolate w/ Soy Lecithin"
+    ],
+    "food_tags": [
+      "Preservative",
+      "Fruits",
+      "Sugar",
+      "Cacao",
+      "Emulsifier",
+      "Soy"
+    ],
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T17:06:00.000Z"
+  },
+  {
+    "name": "Orient Espresso: Oak Roasted Espresso Cardamom",
+    "form_factor": "Bar",
+    "cacao_percentage": 50,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195647626.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195651159.PORTRAIT.jpg",
+    "maker": {
+      "name": "Jade",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Espresso Coffee",
+      "Cardamom",
+      "Soy Lecithin",
+      "Vanilla",
+      "Cream (Milk)",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Caffeine",
+      "Spices",
+      "Emulsifier",
+      "Soy",
+      "Dairy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-08-31T04:41:00.000Z",
+    "updated_at": "2024-08-31T17:09:00.000Z"
+  },
+  {
+    "name": "Kuro Genmai: Roasted Brown Rice",
+    "form_factor": "Bar",
+    "cacao_percentage": 62,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195609725.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195613478.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Jade",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Genmai (Roasted Brown Rice)",
+      "Dark Chocolate w/ Soy Lecithin"
+    ],
+    "food_tags": [
+      "Cacao",
+      "Emulsifier",
+      "Soy",
+      "Sugar"
+    ],
+    "created_at": "2024-08-31T04:41:00.000Z",
+    "updated_at": "2024-08-31T17:15:00.000Z"
+  },
+  {
+    "name": "Genmai: Roasted Brown Rice, Green Tea, Jasmine Tea",
+    "form_factor": "Bar",
+    "cacao_percentage": 35,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195557337.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195601461.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Jade",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Jasmine Tea",
+      "Green Tea",
+      "Genmai (Roasted Brown Rice)",
+      "Milk Chocolate",
+      "Soy Lecithin"
+    ],
+    "food_tags": [
+      "Caffeine",
+      "Tea",
+      "Dairy",
+      "Emulsifier",
+      "Sugar",
+      "Soy"
+    ],
+    "created_at": "2024-08-31T04:41:00.000Z",
+    "updated_at": "2024-08-31T17:17:00.000Z"
+  },
+  {
     "name": "Philippines 72%",
     "form_factor": "Bar",
     "cacao_percentage": 72,
@@ -11763,9 +12220,9 @@
       "Cacao"
     ],
     "food_tags": [
+      "Sugar",
       "Mint",
       "Dairy",
-      "Sugar",
       "Cacao"
     ],
     "created_at": "2024-04-18T20:37:00.000Z",
@@ -17711,7 +18168,7 @@
     "made_in_origin": false,
     "ingredients": [
       "Green Seaweed",
-      "Genmai",
+      "Genmai (Roasted Brown Rice)",
       "Milk Powder",
       "Cocoa Butter",
       "Cane Sugar",
@@ -17723,7 +18180,7 @@
       "Cacao"
     ],
     "created_at": "2024-04-04T04:16:00.000Z",
-    "updated_at": "2024-07-04T07:15:00.000Z"
+    "updated_at": "2024-08-31T17:14:00.000Z"
   },
   {
     "name": "48% Satay Sauce Dark Milk",
@@ -20050,6 +20507,7 @@
     ],
     "food_tags": [
       "Dairy",
+      "Eggs",
       "Gluten",
       "Sugar",
       "Emulsifier",
@@ -24043,8 +24501,10 @@
     ],
     "made_in_origin": false,
     "ingredients": [
-      "Roasted Brown Rice",
+      "Brown Rice Syrup",
+      "Brown Rice",
       "Vanilla",
+      "Salt",
       "Sunflower Lecithin",
       "Cream (Milk)",
       "Cocoa Butter",
@@ -24052,13 +24512,13 @@
       "Cacao"
     ],
     "food_tags": [
+      "Sugar",
       "Emulsifier",
       "Dairy",
-      "Sugar",
       "Cacao"
     ],
     "created_at": "2024-03-16T16:30:00.000Z",
-    "updated_at": "2024-07-04T07:19:00.000Z"
+    "updated_at": "2024-08-31T17:13:00.000Z"
   },
   {
     "name": "Dark Chocolate Oranges and Almonds",
@@ -38557,7 +39017,7 @@
     ],
     "made_in_origin": false,
     "ingredients": [
-      "Roasted Brown Rice",
+      "Genmai (Roasted Brown Rice)",
       "Candied Yuzu",
       "Vanilla Extract",
       "Sugar",

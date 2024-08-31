@@ -1,4 +1,272 @@
 {
+  "ffff7a77-95ea-819e-a92c-ca085ae7129f": {
+    "name": "Uganda 100%",
+    "created_at": "2024-09-01T02:56:00.000Z",
+    "updated_at": "2024-09-01T02:57:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_192649039.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_192654182.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "2baa35f6-dbcd-4bee-b4ae-8868d23b1963"
+    ],
+    "cacao_percentage": 1,
+    "maker_id": [
+      "e3cc07ac-0228-4ff1-b910-624f39896573"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09"
+    ]
+  },
+  "285c502e-386a-4a3f-a262-81faa9164e33": {
+    "name": "Chuao 100%",
+    "created_at": "2024-09-01T02:55:00.000Z",
+    "updated_at": "2024-09-01T02:58:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_191902331.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_191907014.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "96a98bbf-04d8-4521-b9a5-f871662fd938"
+    ],
+    "cacao_percentage": 1,
+    "maker_id": [
+      "e3cc07ac-0228-4ff1-b910-624f39896573"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09"
+    ]
+  },
+  "a36c25f9-5f93-4c48-b950-38d730dbeba9": {
+    "name": "Aged Madagascar 73%",
+    "created_at": "2024-09-01T02:55:00.000Z",
+    "updated_at": "2024-09-01T02:59:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_191757133.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240831_191802553.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "c104b65d-bcac-4fdf-a123-f8dd73ddf1ee"
+    ],
+    "cacao_percentage": 0.73,
+    "maker_id": [
+      "e3cc07ac-0228-4ff1-b910-624f39896573"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59"
+    ]
+  },
+  "06875fdf-fed3-49cf-82cf-d68af48ea230": {
+    "name": "The Drive In: Milk Chocolate Caramelized Popcorn",
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T16:51:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200550663.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200555369.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.44,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "9e93fb03-f1bb-4f93-9fe1-7116bf419736",
+      "33ce686b-92d9-4d2f-a0ec-6b8493cbc7e0",
+      "61e50e27-dec0-45b4-9824-445c20614db6",
+      "64ec41b8-a662-474b-9605-91391910f521"
+    ]
+  },
+  "ffff7a77-95ea-81e4-8c04-c9c35e1427ad": {
+    "name": "Rice Crispy Treat: Milk Chocolate Marshmallow Crispy Rice",
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T16:54:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200446981.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200451034.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.44,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "9e93fb03-f1bb-4f93-9fe1-7116bf419736",
+      "33ce686b-92d9-4d2f-a0ec-6b8493cbc7e0",
+      "a84ffe53-71db-4f0e-aca1-d05f6da77723",
+      "b3f84201-7f97-47a7-85d2-dbc31a9e60f9",
+      "d8f0c410-821c-4968-8add-bb02b898c8e6",
+      "c609978a-3bd0-4d17-98ea-d6ef0848376d",
+      "64ec41b8-a662-474b-9605-91391910f521"
+    ]
+  },
+  "4e78274b-6d94-4b0f-8e53-9cd7a7cbbd6c": {
+    "name": "Chocolate Chip Cookies",
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T16:56:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200357339.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200402225.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.44,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "9e93fb03-f1bb-4f93-9fe1-7116bf419736",
+      "33ce686b-92d9-4d2f-a0ec-6b8493cbc7e0",
+      "99dd9fa2-69dc-499e-951d-2bc22dbe7a29"
+    ]
+  },
+  "262e30e0-7a96-4297-8e96-4fb0d28f7063": {
+    "name": "Maple Walnut Fudge: White Chocolate",
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T16:58:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200038311.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_200042786.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.36,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "a09561eb-3a7e-4ca5-af10-6155be933137",
+      "33ce686b-92d9-4d2f-a0ec-6b8493cbc7e0",
+      "a92391eb-3986-47e5-a1da-bd9cdd3fdc14",
+      "d67b4dba-a7ac-4122-acf4-47daf0eb868d"
+    ]
+  },
+  "3ecdb987-087f-463d-9d3a-f48e3f4c4929": {
+    "name": "Lemon Shortbread: White Chocolate",
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T17:00:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195948954.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195953008.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.36,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "a09561eb-3a7e-4ca5-af10-6155be933137",
+      "33ce686b-92d9-4d2f-a0ec-6b8493cbc7e0",
+      "50d578ba-ba0f-4642-9a39-737fbe267b0b",
+      "1b9e6882-8747-49b7-ad1a-a878c6352fe0",
+      "0c2847d4-2a00-450d-ba63-2cbf17447461"
+    ]
+  },
+  "33c73128-92df-4e95-b63e-25af6a4bd6ee": {
+    "name": "Pink Elephants: Dark Chocolate & Frosted Cookies",
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T17:03:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195859158.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195902835.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.73,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "3ae0e394-4b1b-4899-be33-da2645e7123b",
+      "225aa79a-dc85-4db3-85b4-f52c9d8788b1"
+    ]
+  },
+  "16e1ba47-4136-49e3-b64f-2fcb5d85d9f3": {
+    "name": "Pistachio Gelato: White Chocolate",
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T17:03:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195805383.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195812977.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.36,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "a09561eb-3a7e-4ca5-af10-6155be933137",
+      "33ce686b-92d9-4d2f-a0ec-6b8493cbc7e0",
+      "069f5a3b-eba9-40d2-b709-563e46efa050",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6"
+    ]
+  },
+  "dd797080-d536-4f47-adde-4c6f791eb421": {
+    "name": "Mangoes & Chocolate",
+    "created_at": "2024-08-31T04:42:00.000Z",
+    "updated_at": "2024-08-31T17:06:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195724411.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195730573.PORTRAIT.jpg",
+    "form_factor": "Confection",
+    "cacao_origin_id": [],
+    "cacao_percentage": null,
+    "maker_id": [
+      "41306153-f535-4f93-8080-8e4c456c0e52"
+    ],
+    "ingredient_ids": [
+      "4e23bc65-00df-4b78-b65b-859482a5f216",
+      "8453d3c2-5a37-4641-b18a-bfbe069bc0a2",
+      "3ae0e394-4b1b-4899-be33-da2645e7123b"
+    ]
+  },
+  "7ee6c219-07f9-4260-a723-d64713f26deb": {
+    "name": "Orient Espresso: Oak Roasted Espresso Cardamom",
+    "created_at": "2024-08-31T04:41:00.000Z",
+    "updated_at": "2024-08-31T17:09:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195647626.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195651159.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.5,
+    "maker_id": [
+      "41306153-f535-4f93-8080-8e4c456c0e52"
+    ],
+    "ingredient_ids": [
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "33ce686b-92d9-4d2f-a0ec-6b8493cbc7e0",
+      "53504645-397a-4ee6-a80b-11d96ef33718",
+      "7cfc7210-46c8-4572-b49d-9ddc12ccc87c",
+      "3a714c69-3e82-40e6-a8c5-6624720c4d4f",
+      "83bd4e5a-4169-4186-9379-a1c553f2ff55"
+    ]
+  },
+  "613c9853-d054-47a7-a86c-b9db665d1704": {
+    "name": "Kuro Genmai: Roasted Brown Rice",
+    "created_at": "2024-08-31T04:41:00.000Z",
+    "updated_at": "2024-08-31T17:15:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195609725.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195613478.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.62,
+    "maker_id": [
+      "41306153-f535-4f93-8080-8e4c456c0e52"
+    ],
+    "ingredient_ids": [
+      "3ae0e394-4b1b-4899-be33-da2645e7123b",
+      "a10c96cf-bdaf-42a4-96e6-2dc43e460157"
+    ]
+  },
+  "51de3a3a-b00d-4ea2-a33d-568073a3a160": {
+    "name": "Genmai: Roasted Brown Rice, Green Tea, Jasmine Tea",
+    "created_at": "2024-08-31T04:41:00.000Z",
+    "updated_at": "2024-08-31T17:17:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195557337.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240830_195601461.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.35,
+    "maker_id": [
+      "41306153-f535-4f93-8080-8e4c456c0e52"
+    ],
+    "ingredient_ids": [
+      "9e93fb03-f1bb-4f93-9fe1-7116bf419736",
+      "33ce686b-92d9-4d2f-a0ec-6b8493cbc7e0",
+      "a10c96cf-bdaf-42a4-96e6-2dc43e460157",
+      "084dec37-81c0-424b-b561-f8b7d1bb315e",
+      "3c9b5b63-14a2-4fff-b2b9-28bcbb86e853"
+    ]
+  },
   "00398ac8-e407-4bc3-8cd7-1d9e9787893c": {
     "name": "Philippines 72%",
     "created_at": "2024-08-24T17:40:00.000Z",
@@ -10747,7 +11015,7 @@
   "c82c3f68-fee4-4b17-80c3-56f98ef2bfca": {
     "name": "Suji Aonori Dark Milk",
     "created_at": "2024-04-04T04:16:00.000Z",
-    "updated_at": "2024-07-04T07:15:00.000Z",
+    "updated_at": "2024-08-31T17:14:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_215252102.PORTRAIT.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240403_215255065.PORTRAIT.jpg",
     "form_factor": "Bar",
@@ -10763,8 +11031,8 @@
       "fbf695f5-23af-49e5-9d4b-967160205d22",
       "02f8cbaf-1393-422e-bec9-2342508e6d59",
       "821291d2-c7a2-43f9-a8b3-77750d10e055",
-      "1fc1b2db-18a6-48eb-b8a5-dc562bb9a7bd",
-      "0ccc6348-67b1-4215-91d5-34389a4fed31"
+      "0ccc6348-67b1-4215-91d5-34389a4fed31",
+      "a10c96cf-bdaf-42a4-96e6-2dc43e460157"
     ]
   },
   "1b54942d-43f0-401c-a22b-48f859328eac": {
@@ -14621,7 +14889,7 @@
   "0fb7366b-5900-403c-8517-a444ae79a764": {
     "name": "Caramelized Crisped Rice Milk Chocolate",
     "created_at": "2024-03-16T16:30:00.000Z",
-    "updated_at": "2024-07-04T07:19:00.000Z",
+    "updated_at": "2024-08-31T17:13:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240315_211222793.PORTRAIT.ORIGINAL.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240315_211227304.PORTRAIT.ORIGINAL.jpg",
     "form_factor": "Bar",
@@ -14636,8 +14904,10 @@
       "53504645-397a-4ee6-a80b-11d96ef33718",
       "d40161a0-ef29-4d52-b11b-79bfeadefc09",
       "a07d936b-9bbd-48bf-968f-2154ff88405f",
-      "83bd4e5a-4169-4186-9379-a1c553f2ff55",
-      "a10c96cf-bdaf-42a4-96e6-2dc43e460157"
+      "7913391f-709c-409e-bf61-dff92abdb08d",
+      "7c6b1a75-8a1d-45d2-85c4-b91fcd00d880",
+      "6b355090-38d0-4923-a380-6d9fffde88b4",
+      "83bd4e5a-4169-4186-9379-a1c553f2ff55"
     ]
   },
   "b02589d2-e281-43e4-adae-9d898b648eb7": {
