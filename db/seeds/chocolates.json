@@ -1,4 +1,83 @@
 {
+  "6f953170-1a1b-41e0-9222-8fce11a8ae9a": {
+    "name": "70% Haiti",
+    "created_at": "2024-09-07T03:38:00.000Z",
+    "updated_at": "2024-09-07T03:44:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_220006935.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_220021186.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "b43508b2-bd30-4d0a-840b-7d5ecd03d481"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "4aa9a4e9-2ba7-455f-96d9-b39bb3f3e8d0"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22"
+    ]
+  },
+  "cdc4e60a-21ff-4a52-bf5a-6cc12f571cd3": {
+    "name": "70% Tanzania with Habanero Salt",
+    "created_at": "2024-09-07T03:38:00.000Z",
+    "updated_at": "2024-09-07T03:45:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_215952817.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_215957519.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "95abcf76-eb9c-446b-9731-020666954c96"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "4aa9a4e9-2ba7-455f-96d9-b39bb3f3e8d0"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "f8997309-a467-49ed-8820-15f30bee314e"
+    ]
+  },
+  "f1b5ac21-12f2-4862-b245-26c639e5c2f1": {
+    "name": "Toasted Almond with Nibs & Orange White Chocolate",
+    "created_at": "2024-09-07T03:37:00.000Z",
+    "updated_at": "2024-09-07T03:48:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_183623535.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_183627448.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.39,
+    "maker_id": [
+      "135a4b7d-4e3d-4b7c-b695-88397b99b349"
+    ],
+    "ingredient_ids": [
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "2636b33f-b7d5-4b47-8c7a-f597f3a9cf70",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "8af32915-1386-49f2-b7bf-500a4d7d90da",
+      "8dd8fc67-6672-4245-9ef2-29e70988b985"
+    ]
+  },
+  "2a0d806f-133f-4ac7-b6c3-9d0e98d71e81": {
+    "name": "Belize Dark Chocolate 70% Slow Dried Cocoa",
+    "created_at": "2024-09-07T03:37:00.000Z",
+    "updated_at": "2024-09-07T03:50:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_183612610.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_183616624.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "4dcc6cef-7f94-49d0-b608-699b5ccbc3f8"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "135a4b7d-4e3d-4b7c-b695-88397b99b349"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59"
+    ]
+  },
   "ffff7a77-95ea-819e-a92c-ca085ae7129f": {
     "name": "Uganda 100%",
     "created_at": "2024-09-01T02:56:00.000Z",

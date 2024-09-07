@@ -1,5 +1,138 @@
 [
   {
+    "name": "70% Haiti",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_220006935.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_220021186.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Spinnaker",
+      "city": "Seattle",
+      "region": "Washington",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Haiti",
+        "city": null,
+        "region": null,
+        "country": "Haiti"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-09-07T03:38:00.000Z",
+    "updated_at": "2024-09-07T03:44:00.000Z"
+  },
+  {
+    "name": "70% Tanzania with Habanero Salt",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_215952817.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_215957519.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Spinnaker",
+      "city": "Seattle",
+      "region": "Washington",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kokoa Kamili, Tanzania",
+        "city": "Mbingu",
+        "region": "Kilombero Valley",
+        "country": "Tanzania"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Habanero Salt Flakes",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Spicy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-09-07T03:38:00.000Z",
+    "updated_at": "2024-09-07T03:45:00.000Z"
+  },
+  {
+    "name": "Toasted Almond with Nibs & Orange White Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 39,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_183623535.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_183627448.PORTRAIT.jpg",
+    "maker": {
+      "name": "Karuna",
+      "city": "Velturno",
+      "region": "South Tyrol",
+      "country": "Italy"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Almond Flour",
+      "Candied Oranges",
+      "Cocoa Nibs",
+      "Cocoa Butter",
+      "Cane Sugar"
+    ],
+    "food_tags": [
+      "Alt-Milk",
+      "Nuts",
+      "Citrus",
+      "Fruits",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-09-07T03:37:00.000Z",
+    "updated_at": "2024-09-07T03:48:00.000Z"
+  },
+  {
+    "name": "Belize Dark Chocolate 70% Slow Dried Cocoa",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_183612610.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20240906_183616624.PORTRAIT.jpg",
+    "maker": {
+      "name": "Karuna",
+      "city": "Velturno",
+      "region": "South Tyrol",
+      "country": "Italy"
+    },
+    "cacao_origins": [
+      {
+        "name": "Belize",
+        "city": null,
+        "region": null,
+        "country": "Belize"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-09-07T03:37:00.000Z",
+    "updated_at": "2024-09-07T03:50:00.000Z"
+  },
+  {
     "name": "Uganda 100%",
     "form_factor": "Bar",
     "cacao_percentage": 100,
