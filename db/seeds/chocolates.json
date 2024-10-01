@@ -1,4 +1,29 @@
 {
+  "112f7a77-95ea-817a-83e3-c496988da6e9": {
+    "name": "Black Truffle 65% Dark Milk",
+    "created_at": "2024-10-01T03:19:00.000Z",
+    "updated_at": "2024-10-01T03:23:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241001_031552378.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241001_031556344.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "083decf0-ce52-4581-bcfc-3231394b9074"
+    ],
+    "cacao_percentage": 0.65,
+    "maker_id": [
+      "66508125-030c-4a64-9f40-e4109174a6e5"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "821291d2-c7a2-43f9-a8b3-77750d10e055",
+      "f966eb8c-32f6-4859-9a92-02b12afe9209",
+      "112f7a77-95ea-80d7-ab44-df44b135ec78",
+      "112f7a77-95ea-80f3-9e2d-c12df335e08e",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6"
+    ]
+  },
   "6f953170-1a1b-41e0-9222-8fce11a8ae9a": {
     "name": "70% Haiti",
     "created_at": "2024-09-07T03:38:00.000Z",
@@ -15888,9 +15913,9 @@
   "c519209c-7857-4d45-a5f2-6c5341103cf0": {
     "name": "Peanut Butter Malt Balls",
     "created_at": "2024-03-09T06:19:00.000Z",
-    "updated_at": "2024-07-04T07:20:00.000Z",
+    "updated_at": "2024-09-14T02:32:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/_1_PXL_20240309_011557659.PORTRAIT.ORIGINAL.jpg",
-    "back_img_url": null,
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/_1_PXL_20240913_192337123.MP.jpg",
     "form_factor": "Confection",
     "cacao_origin_id": [],
     "cacao_percentage": null,

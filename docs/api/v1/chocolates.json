@@ -1,5 +1,45 @@
 [
   {
+    "name": "Black Truffle 65% Dark Milk",
+    "form_factor": "Bar",
+    "cacao_percentage": 65,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241001_031552378.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241001_031556344.PORTRAIT.jpg",
+    "maker": {
+      "name": "Fossa",
+      "city": null,
+      "region": null,
+      "country": "Singapore"
+    },
+    "cacao_origins": [
+      {
+        "name": "Costa Esmeraldas, Ecuador",
+        "city": "Costa Esmeraldas",
+        "region": "Esmeraldas",
+        "country": "Ecuador"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Feuilletine",
+      "Black Truffle",
+      "Sea Salt",
+      "Sunflower Oil",
+      "Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Dairy",
+      "Gluten",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-01T03:19:00.000Z",
+    "updated_at": "2024-10-01T03:23:00.000Z"
+  },
+  {
     "name": "70% Haiti",
     "form_factor": "Bar",
     "cacao_percentage": 70,
@@ -26078,7 +26118,7 @@
     "form_factor": "Confection",
     "cacao_percentage": null,
     "front_img_url": "https://s3.chocolatepassport.app/catalog/_1_PXL_20240309_011557659.PORTRAIT.ORIGINAL.jpg",
-    "back_img_url": null,
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/_1_PXL_20240913_192337123.MP.jpg",
     "maker": {
       "name": "Kopper's",
       "city": "Cranford",
@@ -26107,7 +26147,7 @@
       "Nuts"
     ],
     "created_at": "2024-03-09T06:19:00.000Z",
-    "updated_at": "2024-07-04T07:20:00.000Z"
+    "updated_at": "2024-09-14T02:32:00.000Z"
   },
   {
     "name": "French Vanilla Malt Milk Balls",
