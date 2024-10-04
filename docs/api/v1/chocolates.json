@@ -1,5 +1,459 @@
 [
   {
+    "name": "Night Train 75: Cocoa Nibs",
+    "form_factor": "Bar",
+    "cacao_percentage": 75,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_010102818.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_010113621.PORTRAIT.jpg",
+    "maker": {
+      "name": "Cocoa Parlor",
+      "city": "Laguna Niguel",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Nibs",
+      "Cocoa Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Cacao",
+      "Sugar"
+    ],
+    "created_at": "2024-10-04T02:59:00.000Z",
+    "updated_at": "2024-10-04T03:01:00.000Z"
+  },
+  {
+    "name": "Dulce De Leche Sea Salt + Coffee: Creamy caramelized white chocolate with coffee and sea salt",
+    "form_factor": "Bar",
+    "cacao_percentage": null,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005846690.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005852271.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Mission",
+      "city": "Brooklin",
+      "region": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "cacao_origins": [
+      {
+        "name": "Brazil",
+        "city": null,
+        "region": null,
+        "country": "Brazil"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Sea Salt",
+      "Milk Powder",
+      "Coffee",
+      "Cocoa Butter",
+      "Cane Sugar"
+    ],
+    "food_tags": [
+      "Dairy",
+      "Caffeine",
+      "Sugar"
+    ],
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:07:00.000Z"
+  },
+  {
+    "name": "Ginger Cinnamon: Creamy milk chocolate with warm spices",
+    "form_factor": "Bar",
+    "cacao_percentage": 47,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005830376.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005837218.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Mission",
+      "city": "Brooklin",
+      "region": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "cacao_origins": [
+      {
+        "name": "Brazil",
+        "city": null,
+        "region": null,
+        "country": "Brazil"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Cloves",
+      "Nutmeg",
+      "Ginger",
+      "Allspice",
+      "Cinnamon",
+      "Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Spices",
+      "Dairy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:09:00.000Z"
+  },
+  {
+    "name": "Lost in an Orange Haze: 64% Dark chocolate, candied orange peel, and cinnamon",
+    "form_factor": "Bar",
+    "cacao_percentage": 64,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005441525.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005445934.PORTRAIT.jpg",
+    "maker": {
+      "name": "Bon-fiction",
+      "city": "Rajamahendravaram",
+      "region": "Andhra Pradesh",
+      "country": "India"
+    },
+    "cacao_origins": [
+      {
+        "name": "Godavari, South India",
+        "city": null,
+        "region": "Andhra Pradesh",
+        "country": "India"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Candied Orange Peel",
+      "Cinnamon",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Citrus",
+      "Fruits",
+      "Sugar",
+      "Spices",
+      "Cacao"
+    ],
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:12:00.000Z"
+  },
+  {
+    "name": "Peru 72%",
+    "form_factor": "Bar",
+    "cacao_percentage": 72,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005154258.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005158423.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Bar Au Chocolat",
+      "city": "Manhattan Beach",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Peru",
+        "city": null,
+        "region": null,
+        "country": "Peru"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:31:00.000Z"
+  },
+  {
+    "name": "Trinidad 80%",
+    "form_factor": "Bar",
+    "cacao_percentage": 80,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005123690.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005137232.PORTRAIT.jpg",
+    "maker": {
+      "name": "Bar Au Chocolat",
+      "city": "Manhattan Beach",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Trinidad",
+        "city": null,
+        "region": null,
+        "country": "Trinidad"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:32:00.000Z"
+  },
+  {
+    "name": "Trinidad 77%",
+    "form_factor": "Bar",
+    "cacao_percentage": 77,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005108798.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005114567.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Bar Au Chocolat",
+      "city": "Manhattan Beach",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Trinidad",
+        "city": null,
+        "region": null,
+        "country": "Trinidad"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Date Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alt-Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:32:00.000Z"
+  },
+  {
+    "name": "Hawai’i 74%",
+    "form_factor": "Bar",
+    "cacao_percentage": 74,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005055279.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005059022.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Bar Au Chocolat",
+      "city": "Manhattan Beach",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Hawaii",
+        "city": null,
+        "region": "Hawai'i",
+        "country": "USA"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Coconut Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alt-Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:33:00.000Z"
+  },
+  {
+    "name": "Mango Chili",
+    "form_factor": "Bar",
+    "cacao_percentage": 64,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_004557809.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_004603232.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Madhu",
+      "city": "Austin",
+      "region": "Texas",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Colombia",
+        "city": null,
+        "region": null,
+        "country": "Colombia"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Makrut Lime Leaf",
+      "Mango Powder",
+      "Red Chili Pepper",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Spicy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:14:00.000Z"
+  },
+  {
+    "name": "Lychee Rose Dark Milk 48%",
+    "form_factor": "Bar",
+    "cacao_percentage": 48,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_004346400.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_004350735.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Kessho",
+      "city": "Austin",
+      "region": "Texas",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Semuliki Forest, Uganda",
+        "city": "Kasese",
+        "region": "Semuliki Forest",
+        "country": "Uganda"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Dried Lychee",
+      "Rose Powder",
+      "Lychee Powder",
+      "Whole Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Dairy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-04T02:57:00.000Z",
+    "updated_at": "2024-10-04T03:24:00.000Z"
+  },
+  {
+    "name": "Tamarindo Biche",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_225139683.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_225143902.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Utopick",
+      "city": "Valencia",
+      "region": null,
+      "country": "Spain"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Espelette Pepper",
+      "Lemondrop",
+      "Tamarind",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Spicy",
+      "Citrus",
+      "Sugar",
+      "Fruits",
+      "Cacao"
+    ],
+    "created_at": "2024-10-04T02:57:00.000Z",
+    "updated_at": "2024-10-04T03:19:00.000Z"
+  },
+  {
+    "name": "Lemon Olive Oil: Organic White Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 37,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_174218074.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_174222147.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Ocelot",
+      "city": "Dundee",
+      "region": "Scotland",
+      "country": "United Kingdom (UK)"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Lemon Olive Oil",
+      "Whole Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar"
+    ],
+    "food_tags": [
+      "Citrus",
+      "Dairy",
+      "Sugar"
+    ],
+    "created_at": "2024-10-04T02:57:00.000Z",
+    "updated_at": "2024-10-04T03:21:00.000Z"
+  },
+  {
+    "name": "Wu Ren Mooncake & Osmanthus 58% Dark Milk",
+    "form_factor": "Bar",
+    "cacao_percentage": 57,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_173952296.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_173956517.PORTRAIT.jpg",
+    "maker": {
+      "name": "Fossa",
+      "city": null,
+      "region": null,
+      "country": "Singapore"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Osmanthus Flower",
+      "Candied Melon",
+      "Almond Flakes",
+      "White Sesame",
+      "Pumpkin Seeds",
+      "Sunflower Seeds",
+      "Cranberries",
+      "Walnuts",
+      "Black Sesame",
+      "Milk Powder",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Sugar",
+      "Nuts",
+      "Dairy",
+      "Cacao"
+    ],
+    "created_at": "2024-10-04T02:57:00.000Z",
+    "updated_at": "2024-10-04T03:29:00.000Z"
+  },
+  {
     "name": "Black Truffle 65% Dark Milk",
     "form_factor": "Bar",
     "cacao_percentage": 65,
@@ -37,7 +491,7 @@
       "Cacao"
     ],
     "created_at": "2024-10-01T03:19:00.000Z",
-    "updated_at": "2024-10-01T03:23:00.000Z"
+    "updated_at": "2024-10-04T03:30:00.000Z"
   },
   {
     "name": "70% Haiti",

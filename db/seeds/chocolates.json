@@ -1,8 +1,288 @@
 {
+  "115f7a77-95ea-8111-97ae-cccc2b935109": {
+    "name": "Night Train 75: Cocoa Nibs",
+    "created_at": "2024-10-04T02:59:00.000Z",
+    "updated_at": "2024-10-04T03:01:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_010102818.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_010113621.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.75,
+    "maker_id": [
+      "1025a70d-6eab-46d8-89a8-3b401b10c841"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "8af32915-1386-49f2-b7bf-500a4d7d90da",
+      "bc4f8149-b70d-466f-9ea6-089a7b7fc17a",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59"
+    ]
+  },
+  "115f7a77-95ea-81dc-b940-db6a1341edf8": {
+    "name": "Dulce De Leche Sea Salt + Coffee: Creamy caramelized white chocolate with coffee and sea salt",
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:07:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005846690.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005852271.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "83c6c142-e266-42e6-be37-df39e4d0985e"
+    ],
+    "cacao_percentage": null,
+    "maker_id": [
+      "ed571a3a-e70a-46b4-a9cc-4dfcbb46aaa5"
+    ],
+    "ingredient_ids": [
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6",
+      "a0c7c0e0-c356-4256-a9e8-cc505d2acf5d",
+      "821291d2-c7a2-43f9-a8b3-77750d10e055"
+    ]
+  },
+  "115f7a77-95ea-81d6-a30a-e5cfec28667f": {
+    "name": "Ginger Cinnamon: Creamy milk chocolate with warm spices",
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:09:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005830376.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005837218.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "83c6c142-e266-42e6-be37-df39e4d0985e"
+    ],
+    "cacao_percentage": 0.47,
+    "maker_id": [
+      "ed571a3a-e70a-46b4-a9cc-4dfcbb46aaa5"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "821291d2-c7a2-43f9-a8b3-77750d10e055",
+      "1e02b2ce-a81c-478b-a1b6-ad678238ef89",
+      "9cd67987-2718-414f-b65a-6c25a5d7dccb",
+      "863998b9-eff2-4fe1-9fb1-32426c0dd1b2",
+      "5add90a1-1c56-4c7b-8c2f-7b094c02075c",
+      "8f665795-f5b1-4625-bc05-3344f07d2d6a"
+    ]
+  },
+  "115f7a77-95ea-818b-842f-ebfd1ff2106e": {
+    "name": "Lost in an Orange Haze: 64% Dark chocolate, candied orange peel, and cinnamon",
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:12:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005441525.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005445934.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "bd3b0278-be43-4897-8a09-5abd071b90f1"
+    ],
+    "cacao_percentage": 0.64,
+    "maker_id": [
+      "5a963db9-37f4-4270-a983-dae9c4ecdbc4"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "8f665795-f5b1-4625-bc05-3344f07d2d6a",
+      "79289c23-08fb-47c3-9a45-5b3e90d06a76"
+    ]
+  },
+  "115f7a77-95ea-81de-9c15-e1b3c9b547f7": {
+    "name": "Peru 72%",
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:31:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005154258.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005158423.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "1c62781d-8fd2-4e8c-b334-ec6db67d4ccb"
+    ],
+    "cacao_percentage": 0.72,
+    "maker_id": [
+      "e334d505-881c-4bd0-872a-30242064c6d8"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22"
+    ]
+  },
+  "115f7a77-95ea-8120-95d9-e05434474627": {
+    "name": "Trinidad 80%",
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:32:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005123690.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005137232.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "44d70ee4-f3ef-4293-9b69-f47a86bd4d0b"
+    ],
+    "cacao_percentage": 0.8,
+    "maker_id": [
+      "e334d505-881c-4bd0-872a-30242064c6d8"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22"
+    ]
+  },
+  "115f7a77-95ea-8110-aaac-ebc3c6a0e3dc": {
+    "name": "Trinidad 77%",
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:32:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005108798.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005114567.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "44d70ee4-f3ef-4293-9b69-f47a86bd4d0b"
+    ],
+    "cacao_percentage": 0.77,
+    "maker_id": [
+      "e334d505-881c-4bd0-872a-30242064c6d8"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "e069969b-d97d-42d1-8444-2771ed241044"
+    ]
+  },
+  "115f7a77-95ea-81af-abdc-e7bfe1d00fab": {
+    "name": "Hawai\u2019i 74%",
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:33:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005055279.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_005059022.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "115f7a77-95ea-80f1-8d40-e3b20d7b6a16"
+    ],
+    "cacao_percentage": 0.74,
+    "maker_id": [
+      "e334d505-881c-4bd0-872a-30242064c6d8"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "b82f4c8f-e185-4514-9450-ca838596b0fc"
+    ]
+  },
+  "115f7a77-95ea-8191-8df0-eb41bcdde84e": {
+    "name": "Mango Chili",
+    "created_at": "2024-10-04T02:58:00.000Z",
+    "updated_at": "2024-10-04T03:14:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_004557809.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_004603232.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "890ef7a3-1d45-4bc9-90b0-9f8ad21b3e1e"
+    ],
+    "cacao_percentage": 0.64,
+    "maker_id": [
+      "7f343c20-4c0e-4875-a94a-e0bbace24ca7"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "115f7a77-95ea-80d7-b683-de74c3a2cbfe",
+      "115f7a77-95ea-80a0-ad81-e55a42811a57",
+      "fe6aa63b-90b0-49f7-a090-ad7990198716"
+    ]
+  },
+  "115f7a77-95ea-8102-9160-c93e605403ab": {
+    "name": "Lychee Rose Dark Milk 48%",
+    "created_at": "2024-10-04T02:57:00.000Z",
+    "updated_at": "2024-10-04T03:24:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_004346400.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241004_004350735.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "5f0744b3-3fe2-4cd7-8f68-4c8ec14afc57"
+    ],
+    "cacao_percentage": 0.48,
+    "maker_id": [
+      "b4c5e9cf-5648-4a30-9b20-08e2056ed4c4"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "29f056a8-ba2f-4522-97e3-157a0b2a82f7",
+      "07492b3e-8c9c-4c2f-a9d1-258acf17bc4f",
+      "115f7a77-95ea-80b6-94b0-c2fc315a321c",
+      "70a29888-d951-4fb0-9f5a-7275a3b896b0"
+    ]
+  },
+  "115f7a77-95ea-81da-bce7-eecc4ff13b4d": {
+    "name": "Tamarindo Biche",
+    "created_at": "2024-10-04T02:57:00.000Z",
+    "updated_at": "2024-10-04T03:19:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_225139683.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_225143902.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "ba76e784-226b-464c-bf38-87974f627bec"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "115f7a77-95ea-8006-90a9-fe05c1550bd9",
+      "aa999639-851a-4c3a-96f1-350bd51ac3fd",
+      "115f7a77-95ea-80a6-a7e2-f4ea9138dc6b"
+    ]
+  },
+  "115f7a77-95ea-81c0-a0dd-f1cbcf01c929": {
+    "name": "Lemon Olive Oil: Organic White Chocolate",
+    "created_at": "2024-10-04T02:57:00.000Z",
+    "updated_at": "2024-10-04T03:21:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_174218074.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_174222147.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.37,
+    "maker_id": [
+      "a6d44ef4-4aba-4f03-b507-ecfd96e4a01c"
+    ],
+    "ingredient_ids": [
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "29f056a8-ba2f-4522-97e3-157a0b2a82f7",
+      "115f7a77-95ea-8054-b6a8-f6dba304577a"
+    ]
+  },
+  "115f7a77-95ea-8180-a8ef-f95f4a0d5f58": {
+    "name": "Wu Ren Mooncake & Osmanthus 58% Dark Milk",
+    "created_at": "2024-10-04T02:57:00.000Z",
+    "updated_at": "2024-10-04T03:29:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_173952296.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241003_173956517.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.58,
+    "maker_id": [
+      "66508125-030c-4a64-9f40-e4109174a6e5"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "821291d2-c7a2-43f9-a8b3-77750d10e055",
+      "e648537c-d608-45da-8218-8e2b5dfb908c",
+      "a92391eb-3986-47e5-a1da-bd9cdd3fdc14",
+      "115f7a77-95ea-8048-a43e-e1335ca8e125",
+      "ca08d623-331d-45ca-9a42-e30a9d323775",
+      "2da36c21-45a4-450c-a3ff-dea99ea03f5b",
+      "115f7a77-95ea-80de-a8f9-cc2e429d9076",
+      "115f7a77-95ea-8075-8172-dba2af6449f9",
+      "115f7a77-95ea-80ba-8692-fc7ccb7fb55b",
+      "bd2f6baa-7869-4751-adf8-f19926875392"
+    ]
+  },
   "112f7a77-95ea-817a-83e3-c496988da6e9": {
     "name": "Black Truffle 65% Dark Milk",
     "created_at": "2024-10-01T03:19:00.000Z",
-    "updated_at": "2024-10-01T03:23:00.000Z",
+    "updated_at": "2024-10-04T03:30:00.000Z",
     "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241001_031552378.PORTRAIT.jpg",
     "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241001_031556344.PORTRAIT.jpg",
     "form_factor": "Bar",
