@@ -1,5 +1,1305 @@
 [
   {
+    "name": "70% Dark Chocolate Belize",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241022_002956343.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241022_003001706.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Great Lakes Chocolate & Dessert Co.",
+      "city": "Traverse City",
+      "region": "Michigan",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Maya Mountain, Belize",
+        "city": null,
+        "region": "Toledo",
+        "country": "Belize"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-22T00:39:00.000Z",
+    "updated_at": "2024-10-22T01:13:00.000Z"
+  },
+  {
+    "name": "72% Dark Chocolate Madagascar",
+    "form_factor": "Bar",
+    "cacao_percentage": 72,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241022_002943144.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241022_002948124.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Great Lakes Chocolate & Dessert Co.",
+      "city": "Traverse City",
+      "region": "Michigan",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Sambirano, Madagascar",
+        "city": null,
+        "region": "Sambirano",
+        "country": "Madagascar"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-22T00:39:00.000Z",
+    "updated_at": "2024-10-22T01:15:00.000Z"
+  },
+  {
+    "name": "70% Dark Chocolate Tanzania",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241022_002931504.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241022_002936093.PORTRAIT.jpg",
+    "maker": {
+      "name": "Great Lakes Chocolate & Dessert Co.",
+      "city": "Traverse City",
+      "region": "Michigan",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kokoa Kamili, Tanzania",
+        "city": "Mbingu",
+        "region": "Kilombero Valley",
+        "country": "Tanzania"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-22T00:39:00.000Z",
+    "updated_at": "2024-10-22T01:16:00.000Z"
+  },
+  {
+    "name": "78% Dark Chocolate Vietnam",
+    "form_factor": "Bar",
+    "cacao_percentage": 78,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241022_002916692.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241022_002923364.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Great Lakes Chocolate & Dessert Co.",
+      "city": "Traverse City",
+      "region": "Michigan",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Lam Dong, Vietnam",
+        "city": null,
+        "region": "Lam Dong",
+        "country": "Vietnam"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-22T00:38:00.000Z",
+    "updated_at": "2024-10-22T01:17:00.000Z"
+  },
+  {
+    "name": "Chocolat lait au Praline noisettes",
+    "form_factor": "Bar",
+    "cacao_percentage": 55,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241019_003347399.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241019_003354055.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Chocolat Bonnat",
+      "city": "Voiron",
+      "region": null,
+      "country": "France"
+    },
+    "cacao_origins": [
+      {
+        "name": "Indonesia",
+        "city": null,
+        "region": null,
+        "country": "Indonesia"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Hazelnut Praline",
+      "Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Nuts",
+      "Dairy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:04:00.000Z",
+    "updated_at": "2024-10-22T01:40:00.000Z"
+  },
+  {
+    "name": "Chocolat noir au Praline amandes",
+    "form_factor": "Bar",
+    "cacao_percentage": 65,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241019_003328003.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241019_003335334.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Chocolat Bonnat",
+      "city": "Voiron",
+      "region": null,
+      "country": "France"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Almond Praline",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Nuts",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:03:00.000Z",
+    "updated_at": "2024-10-22T01:43:00.000Z"
+  },
+  {
+    "name": "Jamaican Sorrel",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_211954004.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_211957651.PORTRAIT.jpg",
+    "maker": {
+      "name": "Likkle More",
+      "city": "Kingston",
+      "region": null,
+      "country": "Jamaica"
+    },
+    "cacao_origins": [
+      {
+        "name": "Jamaica",
+        "city": null,
+        "region": null,
+        "country": "Jamaica"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Dried Sorrel",
+      "Ginger Powder",
+      "Pimento Pepper",
+      "Cinnamon",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Spices",
+      "Spicy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:03:00.000Z",
+    "updated_at": "2024-10-22T01:51:00.000Z"
+  },
+  {
+    "name": "Pink Peppercorn",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_211856822.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_211942611.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Likkle More",
+      "city": "Kingston",
+      "region": null,
+      "country": "Jamaica"
+    },
+    "cacao_origins": [
+      {
+        "name": "Jamaica",
+        "city": null,
+        "region": null,
+        "country": "Jamaica"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Pink Peppercorns",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Spicy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:03:00.000Z",
+    "updated_at": "2024-10-22T01:53:00.000Z"
+  },
+  {
+    "name": "Bachelor’s Hall Estate",
+    "form_factor": "Bar",
+    "cacao_percentage": 72,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_211839894.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_211843343.PORTRAIT.jpg",
+    "maker": {
+      "name": "Likkle More",
+      "city": "Kingston",
+      "region": null,
+      "country": "Jamaica"
+    },
+    "cacao_origins": [
+      {
+        "name": "Bachelor's Hall Estate, Jamaica",
+        "city": null,
+        "region": "Hanover",
+        "country": "Jamaica"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:03:00.000Z",
+    "updated_at": "2024-10-22T01:54:00.000Z"
+  },
+  {
+    "name": "Cocoa & Toasted Oats",
+    "form_factor": "Bar",
+    "cacao_percentage": null,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205509376.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205513544.PORTRAIT.jpg",
+    "maker": {
+      "name": "Firetree",
+      "city": "Peterborough",
+      "region": null,
+      "country": "United Kingdom (UK)"
+    },
+    "cacao_origins": [
+      {
+        "name": "Guadalcanal, Solomon Islands",
+        "city": null,
+        "region": "Guadalcanal",
+        "country": "Solomon Islands"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Vegetable Oil",
+      "Rice Syrup",
+      "Rice Flour",
+      "Oat Flour",
+      "Natural Flavor",
+      "Sea Salt",
+      "Cocoa Powder",
+      "Sunflower Lecithin",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Alt-Milk",
+      "Cacao",
+      "Emulsifier"
+    ],
+    "created_at": "2024-10-19T21:03:00.000Z",
+    "updated_at": "2024-10-22T01:59:00.000Z"
+  },
+  {
+    "name": "Blackberry, Baked Raspberry & Treacle 72%",
+    "form_factor": "Bar",
+    "cacao_percentage": 72,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205452874.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205458324.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Firetree",
+      "city": "Peterborough",
+      "region": null,
+      "country": "United Kingdom (UK)"
+    },
+    "cacao_origins": [
+      {
+        "name": "Karkar Island, Papua New Guinea",
+        "city": "Karkar Island",
+        "region": "Madang",
+        "country": "Papua New Guinea"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Sunflower Lecithin",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Emulsifier",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:03:00.000Z",
+    "updated_at": "2024-10-22T02:01:00.000Z"
+  },
+  {
+    "name": "Red Fruit, Citrus & Plum 82%",
+    "form_factor": "Bar",
+    "cacao_percentage": 82,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205440297.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205443982.PORTRAIT.jpg",
+    "maker": {
+      "name": "Firetree",
+      "city": "Peterborough",
+      "region": null,
+      "country": "United Kingdom (UK)"
+    },
+    "cacao_origins": [
+      {
+        "name": "Guadalcanal, Solomon Islands",
+        "city": null,
+        "region": "Guadalcanal",
+        "country": "Solomon Islands"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:02:00.000Z",
+    "updated_at": "2024-10-22T02:02:00.000Z"
+  },
+  {
+    "name": "Raspberry & Red Fruit 84%",
+    "form_factor": "Bar",
+    "cacao_percentage": 84,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205429368.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205433297.PORTRAIT.jpg",
+    "maker": {
+      "name": "Firetree",
+      "city": "Peterborough",
+      "region": null,
+      "country": "United Kingdom (UK)"
+    },
+    "cacao_origins": [
+      {
+        "name": "Sambirano, Madagascar",
+        "city": null,
+        "region": "Sambirano",
+        "country": "Madagascar"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Sunflower Lecithin",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Emulsifier",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:02:00.000Z",
+    "updated_at": "2024-10-22T02:03:00.000Z"
+  },
+  {
+    "name": "Dates & Rich Cocoa 100%",
+    "form_factor": "Bar",
+    "cacao_percentage": 100,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205416213.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205420157.PORTRAIT.jpg",
+    "maker": {
+      "name": "Firetree",
+      "city": "Peterborough",
+      "region": null,
+      "country": "United Kingdom (UK)"
+    },
+    "cacao_origins": [
+      {
+        "name": "Guadalcanal, Solomon Islands",
+        "city": null,
+        "region": "Guadalcanal",
+        "country": "Solomon Islands"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cacao"
+    ],
+    "food_tags": [
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:02:00.000Z",
+    "updated_at": "2024-10-22T02:04:00.000Z"
+  },
+  {
+    "name": "Rich Cocoa & Red Fruit",
+    "form_factor": "Bar",
+    "cacao_percentage": 100,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205358483.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_205402499.PORTRAIT.jpg",
+    "maker": {
+      "name": "Firetree",
+      "city": "Peterborough",
+      "region": null,
+      "country": "United Kingdom (UK)"
+    },
+    "cacao_origins": [
+      {
+        "name": "Malekula Island, Vanuatu",
+        "city": null,
+        "region": "Malekula Island",
+        "country": "Vanuatu"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cacao"
+    ],
+    "food_tags": [
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:02:00.000Z",
+    "updated_at": "2024-10-22T02:06:00.000Z"
+  },
+  {
+    "name": "Spiced Hot Chocolate 70%",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180730351.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180735017.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Stonegrindz",
+      "city": "Scottsdale",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cayenne Pepper",
+      "Cinnamon",
+      "Vanilla",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Spicy",
+      "Spices",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:02:00.000Z",
+    "updated_at": "2024-10-22T02:08:00.000Z"
+  },
+  {
+    "name": "Toasted Sesame & Brown Sugar 70%",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180712289.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180716505.PORTRAIT.jpg",
+    "maker": {
+      "name": "Stonegrindz",
+      "city": "Scottsdale",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Brown Sugar",
+      "Sea Salt",
+      "Sesame Seeds",
+      "Cocoa Butter",
+      "Vanilla Bean",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Nuts",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:01:00.000Z",
+    "updated_at": "2024-10-22T02:10:00.000Z"
+  },
+  {
+    "name": "Wild Raspberry Jam 60%",
+    "form_factor": "Bar",
+    "cacao_percentage": 60,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180657653.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180702233.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Stonegrindz",
+      "city": "Scottsdale",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Dried Raspberries",
+      "Sea Salt",
+      "Cocoa Butter",
+      "Vanilla Bean",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:01:00.000Z",
+    "updated_at": "2024-10-22T02:11:00.000Z"
+  },
+  {
+    "name": "Honey Roasted Cashew & Date 85%",
+    "form_factor": "Bar",
+    "cacao_percentage": 85,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180642320.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180646904.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Stonegrindz",
+      "city": "Scottsdale",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Medjool Dates",
+      "Honey Roasted Cashews",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Nuts",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:01:00.000Z",
+    "updated_at": "2024-10-22T02:13:00.000Z"
+  },
+  {
+    "name": "Origen Hacienda La Sabaneta 75% Con Cambur",
+    "form_factor": "Bar",
+    "cacao_percentage": 75,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180547172.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180551716.PORTRAIT.jpg",
+    "maker": {
+      "name": "Azu",
+      "city": "Caracas",
+      "region": null,
+      "country": "Venezuela"
+    },
+    "cacao_origins": [
+      {
+        "name": "Hacienda La Sabaneta, Venezuela",
+        "city": "Choroní",
+        "region": "Aragua",
+        "country": "Venezuela"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Dried Bananas",
+      "Cocoa Butter",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:01:00.000Z",
+    "updated_at": "2024-10-22T02:24:00.000Z"
+  },
+  {
+    "name": "Origen Chuao 70% Con Parchita",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180534923.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180539379.PORTRAIT.jpg",
+    "maker": {
+      "name": "Azu",
+      "city": "Caracas",
+      "region": null,
+      "country": "Venezuela"
+    },
+    "cacao_origins": [
+      {
+        "name": "Chuao, Venezuela",
+        "city": null,
+        "region": "Chuao",
+        "country": "Venezuela"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Passionfruit",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:01:00.000Z",
+    "updated_at": "2024-10-22T02:25:00.000Z"
+  },
+  {
+    "name": "Origen Chuao 80%",
+    "form_factor": "Bar",
+    "cacao_percentage": 80,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180521885.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180525892.PORTRAIT.jpg",
+    "maker": {
+      "name": "Azu",
+      "city": "Caracas",
+      "region": null,
+      "country": "Venezuela"
+    },
+    "cacao_origins": [
+      {
+        "name": "Chuao, Venezuela",
+        "city": null,
+        "region": "Chuao",
+        "country": "Venezuela"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:00:00.000Z",
+    "updated_at": "2024-10-22T02:25:00.000Z"
+  },
+  {
+    "name": "Origen Chuao 90%",
+    "form_factor": "Bar",
+    "cacao_percentage": 90,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180504900.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180512317.PORTRAIT.jpg",
+    "maker": {
+      "name": "Azu",
+      "city": "Caracas",
+      "region": null,
+      "country": "Venezuela"
+    },
+    "cacao_origins": [
+      {
+        "name": "Chuao, Venezuela",
+        "city": null,
+        "region": "Chuao",
+        "country": "Venezuela"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:00:00.000Z",
+    "updated_at": "2024-10-22T02:26:00.000Z"
+  },
+  {
+    "name": "Merida Criollo, Venezuela",
+    "form_factor": "Bar",
+    "cacao_percentage": 74,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180403387.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180408724.PORTRAIT.jpg",
+    "maker": {
+      "name": "Orinoco",
+      "city": "Prescott",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Merida, Venezuela",
+        "city": null,
+        "region": "Merida",
+        "country": "Venezuela"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Maple Sugar",
+      "Cocoa Butter",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alt-Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:00:00.000Z",
+    "updated_at": "2024-10-22T02:32:00.000Z"
+  },
+  {
+    "name": "Kokoa Kamili, Tanzania",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180348167.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180353144.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Orinoco",
+      "city": "Prescott",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kokoa Kamili, Tanzania",
+        "city": "Mbingu",
+        "region": "Kilombero Valley",
+        "country": "Tanzania"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Maple Sugar",
+      "Cocoa Butter",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alt-Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:00:00.000Z",
+    "updated_at": "2024-10-22T02:33:00.000Z"
+  },
+  {
+    "name": "Goat Milk Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 50,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180328617.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180334560.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Orinoco",
+      "city": "Prescott",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Patanemo, Venezuela",
+        "city": "Patanemo",
+        "region": "Carabobo",
+        "country": "Venezuela"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Maple Sugar",
+      "Himalayan Pink Salt",
+      "Goat Milk Powder",
+      "Cocoa Butter",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alt-Sugar",
+      "Dairy",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:00:00.000Z",
+    "updated_at": "2024-10-22T02:35:00.000Z"
+  },
+  {
+    "name": "Piaroa, Venezuela",
+    "form_factor": "Bar",
+    "cacao_percentage": 60,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180313379.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180318703.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Orinoco",
+      "city": "Prescott",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Piaroa, Venezuela",
+        "city": null,
+        "region": null,
+        "country": "Venezuela"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Maple Sugar",
+      "Cocoa Butter",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alt-Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T21:00:00.000Z",
+    "updated_at": "2024-10-22T02:36:00.000Z"
+  },
+  {
+    "name": "Orinoco No 3 Blend",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180257733.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180302695.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Orinoco",
+      "city": "Prescott",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Venezuela",
+        "city": null,
+        "region": null,
+        "country": "Venezuela"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Maple Sugar",
+      "Cocoa Butter",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alt-Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T20:59:00.000Z",
+    "updated_at": "2024-10-22T02:37:00.000Z"
+  },
+  {
+    "name": "Patanemo, Venezuela",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180243744.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241018_180249177.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Orinoco",
+      "city": "Prescott",
+      "region": "Arizona",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Patanemo, Venezuela",
+        "city": "Patanemo",
+        "region": "Carabobo",
+        "country": "Venezuela"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Maple Sugar",
+      "Cocoa Butter",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alt-Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-19T20:59:00.000Z",
+    "updated_at": "2024-10-22T02:38:00.000Z"
+  },
+  {
+    "name": "Guatemala 85% Cahabon",
+    "form_factor": "Bar",
+    "cacao_percentage": 85,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222542968.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222547164.PORTRAIT.jpg",
+    "maker": {
+      "name": "Palette De Bine",
+      "city": "Mont-Tremblant",
+      "region": "Quebec",
+      "country": "Canada"
+    },
+    "cacao_origins": [
+      {
+        "name": "Cahabón",
+        "city": null,
+        "region": "Cahabón",
+        "country": "Guatemala"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-08T17:05:00.000Z",
+    "updated_at": "2024-10-09T00:14:00.000Z"
+  },
+  {
+    "name": "Guatemala 70% Cahabon",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222523668.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222527507.PORTRAIT.jpg",
+    "maker": {
+      "name": "Palette De Bine",
+      "city": "Mont-Tremblant",
+      "region": "Quebec",
+      "country": "Canada"
+    },
+    "cacao_origins": [
+      {
+        "name": "Cahabón",
+        "city": null,
+        "region": "Cahabón",
+        "country": "Guatemala"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-08T17:04:00.000Z",
+    "updated_at": "2024-10-09T00:15:00.000Z"
+  },
+  {
+    "name": "Colombie Gigante 50% Milk Chocolate + Brown Butter",
+    "form_factor": "Bar",
+    "cacao_percentage": 50,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222500900.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222504771.PORTRAIT.jpg",
+    "maker": {
+      "name": "Palette De Bine",
+      "city": "Mont-Tremblant",
+      "region": "Quebec",
+      "country": "Canada"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Whole Milk Powder",
+      "Butter",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Dairy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-08T17:04:00.000Z",
+    "updated_at": "2024-10-09T00:18:00.000Z"
+  },
+  {
+    "name": "100% Costa Esmeraldas Pico Batch",
+    "form_factor": "Bar",
+    "cacao_percentage": 100,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222313598.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222317573.PORTRAIT.jpg",
+    "maker": {
+      "name": "Cacao Regina",
+      "city": "Marin",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Costa Esmeraldas, Ecuador",
+        "city": "Costa Esmeraldas",
+        "region": "Esmeraldas",
+        "country": "Ecuador"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cacao"
+    ],
+    "food_tags": [
+      "Cacao"
+    ],
+    "created_at": "2024-10-08T17:04:00.000Z",
+    "updated_at": "2024-10-09T00:22:00.000Z"
+  },
+  {
+    "name": "56% Dark Milk Kokoa Kamili",
+    "form_factor": "Bar",
+    "cacao_percentage": 56,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222257892.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222301294.PORTRAIT.jpg",
+    "maker": {
+      "name": "Cacao Regina",
+      "city": "Marin",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kokoa Kamili, Tanzania",
+        "city": "Mbingu",
+        "region": "Kilombero Valley",
+        "country": "Tanzania"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Whole Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Dairy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-08T17:04:00.000Z",
+    "updated_at": "2024-10-09T00:23:00.000Z"
+  },
+  {
+    "name": "70% Costa Esmeraldas",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222241568.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222245931.PORTRAIT.jpg",
+    "maker": {
+      "name": "Cacao Regina",
+      "city": "Marin",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Costa Esmeraldas, Ecuador",
+        "city": "Costa Esmeraldas",
+        "region": "Esmeraldas",
+        "country": "Ecuador"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-08T17:04:00.000Z",
+    "updated_at": "2024-10-09T00:24:00.000Z"
+  },
+  {
+    "name": "70% Ucayali River",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222228321.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222232351.PORTRAIT.jpg",
+    "maker": {
+      "name": "Cacao Regina",
+      "city": "Marin",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Ucayali, Peru",
+        "city": null,
+        "region": "Ucayali",
+        "country": "Peru"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-08T17:04:00.000Z",
+    "updated_at": "2024-10-09T00:24:00.000Z"
+  },
+  {
+    "name": "70% Kokoa Kamili",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222212824.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241007_222217542.PORTRAIT.jpg",
+    "maker": {
+      "name": "Cacao Regina",
+      "city": "Marin",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kokoa Kamili, Tanzania",
+        "city": "Mbingu",
+        "region": "Kilombero Valley",
+        "country": "Tanzania"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-08T17:04:00.000Z",
+    "updated_at": "2024-10-09T00:25:00.000Z"
+  },
+  {
+    "name": "Labooko Caramel Vegan Bar",
+    "form_factor": "Bar",
+    "cacao_percentage": 28,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241005_175943825.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241005_175948927.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Zotter",
+      "city": null,
+      "region": "Aidenberg",
+      "country": "Austria"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Tapioca Maltodextrin",
+      "Rice",
+      "Lemon Juice",
+      "Cornstarch",
+      "Cashews",
+      "Sunflower Oil",
+      "Salt",
+      "Sunflower Lecithin",
+      "Cocoa Butter",
+      "Vanilla Bean",
+      "Cane Sugar"
+    ],
+    "food_tags": [
+      "Citrus",
+      "Fruits",
+      "Nuts",
+      "Emulsifier",
+      "Sugar"
+    ],
+    "created_at": "2024-10-06T20:44:00.000Z",
+    "updated_at": "2024-10-06T20:51:00.000Z"
+  },
+  {
+    "name": "Labooko Opus 5 Cuvee Dark Chocolate 72%",
+    "form_factor": "Bar",
+    "cacao_percentage": 72,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241005_175930701.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241005_175934675.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Zotter",
+      "city": null,
+      "region": "Aidenberg",
+      "country": "Austria"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-06T20:41:00.000Z",
+    "updated_at": "2024-10-06T20:53:00.000Z"
+  },
+  {
     "name": "Night Train 75: Cocoa Nibs",
     "form_factor": "Bar",
     "cacao_percentage": 75,

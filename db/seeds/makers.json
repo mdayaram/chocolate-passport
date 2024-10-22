@@ -1,4 +1,36 @@
 {
+  "127f7a77-95ea-8001-a451-cf4ccf6a7127": {
+    "name": "Orinoco",
+    "created_at": "2024-10-22T02:28:00.000Z",
+    "updated_at": "2024-10-22T02:29:00.000Z",
+    "city": "Prescott",
+    "region": "Arizona",
+    "country": "USA"
+  },
+  "127f7a77-95ea-80b5-a708-ec0bfea2f6ff": {
+    "name": "Azu",
+    "created_at": "2024-10-22T02:18:00.000Z",
+    "updated_at": "2024-10-22T02:21:00.000Z",
+    "city": "Caracas",
+    "region": null,
+    "country": "Venezuela"
+  },
+  "127f7a77-95ea-8063-befd-f53686f6e2db": {
+    "name": "Great Lakes Chocolate & Dessert Co.",
+    "created_at": "2024-10-22T01:11:00.000Z",
+    "updated_at": "2024-10-22T01:13:00.000Z",
+    "city": "Traverse City",
+    "region": "Michigan",
+    "country": "USA"
+  },
+  "11af7a77-95ea-8081-a38b-ceae57ac61e0": {
+    "name": "Cacao Regina",
+    "created_at": "2024-10-09T00:19:00.000Z",
+    "updated_at": "2024-10-09T00:21:00.000Z",
+    "city": "Marin",
+    "region": "California",
+    "country": "USA"
+  },
   "c5bada4b-8b34-4266-aada-e8e3471518e2": {
     "name": "Valley Isle",
     "created_at": "2024-08-17T02:16:00.000Z",
