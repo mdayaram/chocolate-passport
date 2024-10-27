@@ -1,4 +1,86 @@
 {
+  "12cf7a77-95ea-808f-a6b3-d56db00c15a0": {
+    "name": "Tequila",
+    "created_at": "2024-10-27T01:05:00.000Z",
+    "updated_at": "2024-10-27T01:05:00.000Z",
+    "tags": [
+      "Alcohol"
+    ]
+  },
+  "12cf7a77-95ea-807b-839c-c710d52c0e21": {
+    "name": "Sulfur Dioxide",
+    "created_at": "2024-10-27T00:52:00.000Z",
+    "updated_at": "2024-10-27T00:52:00.000Z",
+    "tags": [
+      "Preservative"
+    ]
+  },
+  "12cf7a77-95ea-8060-8fba-c6018c8a8001": {
+    "name": "Candied Tangerine",
+    "created_at": "2024-10-27T00:51:00.000Z",
+    "updated_at": "2024-10-27T00:51:00.000Z",
+    "tags": [
+      "Sugar",
+      "Citrus",
+      "Fruits"
+    ]
+  },
+  "12cf7a77-95ea-80f3-af36-ef16976ae38e": {
+    "name": "Masa Miso",
+    "created_at": "2024-10-27T00:44:00.000Z",
+    "updated_at": "2024-10-27T00:44:00.000Z",
+    "tags": []
+  },
+  "12cf7a77-95ea-8034-bb85-ea5696d019cb": {
+    "name": "Chile Cross",
+    "created_at": "2024-10-27T00:42:00.000Z",
+    "updated_at": "2024-10-27T00:42:00.000Z",
+    "tags": []
+  },
+  "12cf7a77-95ea-8065-9a89-db0b8ed389a4": {
+    "name": "Mulato Pepper",
+    "created_at": "2024-10-27T00:39:00.000Z",
+    "updated_at": "2024-10-27T00:39:00.000Z",
+    "tags": [
+      "Spicy",
+      "Spices"
+    ]
+  },
+  "12cf7a77-95ea-80e4-bae2-f710c498c51d": {
+    "name": "Pepitas",
+    "created_at": "2024-10-27T00:37:00.000Z",
+    "updated_at": "2024-10-27T00:37:00.000Z",
+    "tags": []
+  },
+  "12cf7a77-95ea-80b6-9ace-c1f0eb8cda08": {
+    "name": "Whine Wine Vinegar",
+    "created_at": "2024-10-27T00:33:00.000Z",
+    "updated_at": "2024-10-27T00:33:00.000Z",
+    "tags": []
+  },
+  "12cf7a77-95ea-80d7-a8bd-f4af8afda3c2": {
+    "name": "Milk Oolong Tea",
+    "created_at": "2024-10-27T00:27:00.000Z",
+    "updated_at": "2024-10-27T00:27:00.000Z",
+    "tags": [
+      "Tea",
+      "Caffeine"
+    ]
+  },
+  "12cf7a77-95ea-80b4-9089-e0e137f5aa5e": {
+    "name": "Cobanero Chili Flakes",
+    "created_at": "2024-10-27T00:25:00.000Z",
+    "updated_at": "2024-10-27T00:25:00.000Z",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  "12cf7a77-95ea-8018-bd42-ec84ecf09283": {
+    "name": "Balsamic Vinegar",
+    "created_at": "2024-10-27T00:21:00.000Z",
+    "updated_at": "2024-10-27T00:21:00.000Z",
+    "tags": []
+  },
   "127f7a77-95ea-803e-a2a6-edfbb6bda753": {
     "name": "Medjool Dates",
     "created_at": "2024-10-22T02:13:00.000Z",
@@ -3403,7 +3485,7 @@
   "9e93fb03-f1bb-4f93-9fe1-7116bf419736": {
     "name": "Milk Chocolate",
     "created_at": "2024-02-24T18:20:00.000Z",
-    "updated_at": "2024-03-11T19:48:00.000Z",
+    "updated_at": "2024-10-27T00:57:00.000Z",
     "tags": [
       "Dairy",
       "Sugar",

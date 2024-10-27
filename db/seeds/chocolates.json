@@ -1,4 +1,395 @@
 {
+  "12bf7a77-95ea-817d-8679-d7df60b894e3": {
+    "name": "Hazelnut & Brown Butter",
+    "created_at": "2024-10-26T18:48:00.000Z",
+    "updated_at": "2024-10-27T00:15:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192124672.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192128343.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "7e2cd706-1518-4349-a09c-19651ee493fa"
+    ],
+    "cacao_percentage": 0.3,
+    "maker_id": [
+      "12cf7a77-95ea-801f-ba33-d87a54070f8b"
+    ],
+    "ingredient_ids": [
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "29f056a8-ba2f-4522-97e3-157a0b2a82f7",
+      "c9f02518-bba0-40f2-8caa-e534f0bacdb2",
+      "64ec41b8-a662-474b-9605-91391910f521",
+      "a07d936b-9bbd-48bf-968f-2154ff88405f",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6"
+    ]
+  },
+  "12bf7a77-95ea-8174-965d-cbb4e218ff65": {
+    "name": "Red Wine-Poached Pear",
+    "created_at": "2024-10-26T18:48:00.000Z",
+    "updated_at": "2024-10-27T00:17:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192112703.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192116252.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "7cdfc543-fe8f-4003-aa6a-23bfdd64e914"
+    ],
+    "cacao_percentage": 0.65,
+    "maker_id": [
+      "12cf7a77-95ea-801f-ba33-d87a54070f8b"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "888a6b26-310c-4e66-8591-48988e8d7eb8",
+      "5814a50e-ea40-40b4-8bbb-6520a3ab5d4b",
+      "5add90a1-1c56-4c7b-8c2f-7b094c02075c",
+      "da895f1c-84d5-47a3-bcb6-ec04b0379697",
+      "1e02b2ce-a81c-478b-a1b6-ad678238ef89",
+      "8fca67d5-b8cb-4fa9-a44e-3547941f7234",
+      "97673edc-567c-4775-bd85-efe1e9fd4f33"
+    ]
+  },
+  "12bf7a77-95ea-8111-8dda-f607d8f90001": {
+    "name": "10-Year Aged Balsamic Vinegar",
+    "created_at": "2024-10-26T18:48:00.000Z",
+    "updated_at": "2024-10-27T00:21:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192103834.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192107102.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "12cf7a77-95ea-8038-a1fb-e5f644d2f942"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "12cf7a77-95ea-801f-ba33-d87a54070f8b"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "12cf7a77-95ea-8018-bd42-ec84ecf09283",
+      "0d4a4ce5-cfce-42ec-bf10-5a641595b001"
+    ]
+  },
+  "12bf7a77-95ea-81cb-a99a-f603577a5fe5": {
+    "name": "Black Sesame & Fig",
+    "created_at": "2024-10-26T18:48:00.000Z",
+    "updated_at": "2024-10-27T00:23:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192053696.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192057302.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "12cf7a77-95ea-8038-a1fb-e5f644d2f942"
+    ],
+    "cacao_percentage": 0.5,
+    "maker_id": [
+      "12cf7a77-95ea-801f-ba33-d87a54070f8b"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "dbd7dc72-b3b7-45c1-802b-8e3f7268795f",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "29f056a8-ba2f-4522-97e3-157a0b2a82f7",
+      "70761596-28e8-448a-a38b-1977129f1b69",
+      "bd2f6baa-7869-4751-adf8-f19926875392"
+    ]
+  },
+  "12bf7a77-95ea-811c-8485-e1ccd9eedb61": {
+    "name": "Maple & Cobanero Chile",
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T00:26:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192020243.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192033734.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "5f0744b3-3fe2-4cd7-8f68-4c8ec14afc57"
+    ],
+    "cacao_percentage": 0.5,
+    "maker_id": [
+      "12cf7a77-95ea-801f-ba33-d87a54070f8b"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "3933b3ab-1d2f-48dc-b310-e0670d62ffba",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6",
+      "29f056a8-ba2f-4522-97e3-157a0b2a82f7",
+      "12cf7a77-95ea-80b4-9089-e0e137f5aa5e"
+    ]
+  },
+  "12bf7a77-95ea-810c-b5df-cc814f5db83c": {
+    "name": "Milk Oolon & Coriander",
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T00:28:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192005401.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192008504.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "7cdfc543-fe8f-4003-aa6a-23bfdd64e914"
+    ],
+    "cacao_percentage": 0.65,
+    "maker_id": [
+      "12cf7a77-95ea-801f-ba33-d87a54070f8b"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "22e12293-cc5a-4c9b-8d56-e0c5222fab81",
+      "12cf7a77-95ea-80d7-a8bd-f4af8afda3c2",
+      "5814a50e-ea40-40b4-8bbb-6520a3ab5d4b"
+    ]
+  },
+  "12bf7a77-95ea-81fe-9d96-cb654181cf83": {
+    "name": "Cherry & Sage",
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T00:29:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_191956427.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_191959827.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "5f0744b3-3fe2-4cd7-8f68-4c8ec14afc57"
+    ],
+    "cacao_percentage": 0.75,
+    "maker_id": [
+      "12cf7a77-95ea-801f-ba33-d87a54070f8b"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "44685466-4e02-4f41-a55a-cd7b4c78cb43",
+      "8716c6ab-893b-4883-b3b7-76c60e748248"
+    ]
+  },
+  "12bf7a77-95ea-816e-bbb9-c744cd4e44a8": {
+    "name": "Shiso Fresh",
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T00:34:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181430854.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181435078.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "12cf7a77-95ea-80ae-b23e-ed2c560753fe",
+      "45ac7cf1-fec6-4043-994d-180a2c3bcf4f"
+    ],
+    "cacao_percentage": 0.67,
+    "maker_id": [
+      "ed098e7a-f516-4b61-8552-71e371b3872c"
+    ],
+    "ingredient_ids": [
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "93c88978-edf0-49f0-b10d-2da2084d4df9",
+      "332b80eb-cc5a-41bd-8627-2d42ec2c489a",
+      "12cf7a77-95ea-80b6-9ace-c1f0eb8cda08"
+    ]
+  },
+  "12bf7a77-95ea-8105-896e-dc365a42a53d": {
+    "name": "Eggnog Milk Chocolate",
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T01:02:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181304536.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181308408.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.44,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "9e93fb03-f1bb-4f93-9fe1-7116bf419736",
+      "8f665795-f5b1-4625-bc05-3344f07d2d6a",
+      "5add90a1-1c56-4c7b-8c2f-7b094c02075c",
+      "fbb037e8-70fa-44a4-9e49-8f4933edb057",
+      "98693c86-9c7e-4af1-84e5-6c2aaa81fef3",
+      "83bd4e5a-4169-4186-9379-a1c553f2ff55",
+      "9cd67987-2718-414f-b65a-6c25a5d7dccb",
+      "53504645-397a-4ee6-a80b-11d96ef33718",
+      "7db534ad-1593-4ba9-bf84-544a4add98c8"
+    ]
+  },
+  "12bf7a77-95ea-8139-93be-fabb1a42b009": {
+    "name": "Caramel Apple Milk Chocolate",
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T01:03:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181250909.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181256160.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.44,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "9e93fb03-f1bb-4f93-9fe1-7116bf419736",
+      "cc8490ac-9e28-4af3-9937-03b0616e9fdc",
+      "55eb915e-8ff9-4efb-8f13-cc70d757118e",
+      "f24dbfb2-e3ee-4203-819b-7d370038aa53"
+    ]
+  },
+  "12bf7a77-95ea-814c-b40f-d7315abad913": {
+    "name": "Wild Cherry Dark",
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T01:04:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181234321.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181239849.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.73,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "3ae0e394-4b1b-4899-be33-da2645e7123b",
+      "87762ae4-e5cf-41eb-832b-321410a094cf",
+      "cc8490ac-9e28-4af3-9937-03b0616e9fdc",
+      "8716c6ab-893b-4883-b3b7-76c60e748248"
+    ]
+  },
+  "12bf7a77-95ea-8102-bc34-ff6ca094de7a": {
+    "name": "The Margarita Bar",
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T01:05:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181149757.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181155948.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [],
+    "cacao_percentage": 0.73,
+    "maker_id": [
+      "530c9565-89be-4b5b-9346-1a84e70b85ed"
+    ],
+    "ingredient_ids": [
+      "3ae0e394-4b1b-4899-be33-da2645e7123b",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6",
+      "ca975fd8-bf1b-4042-884c-4bcf1e1ec298",
+      "12cf7a77-95ea-808f-a6b3-d56db00c15a0"
+    ]
+  },
+  "12bf7a77-95ea-815e-ac9b-fd69e9502390": {
+    "name": "Irish Coffee: Killowen Whiskey x Bailies Coffee",
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T00:46:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181133632.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181139093.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "9b984835-1c83-4092-b093-777803d268a9"
+    ],
+    "cacao_percentage": 0.6,
+    "maker_id": [
+      "7a171bed-d834-4a42-8c2f-6464d1df834a"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "b190453b-63ac-461b-895b-2c649cd6413c",
+      "28433b8b-ee19-4161-bb4b-ad552d0b22bc"
+    ]
+  },
+  "12bf7a77-95ea-816f-bab5-f5dd2d328268": {
+    "name": "Cali Mole",
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T00:44:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181119698.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181126084.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "c104b65d-bcac-4fdf-a123-f8dd73ddf1ee"
+    ],
+    "cacao_percentage": 0.57,
+    "maker_id": [
+      "ed098e7a-f516-4b61-8552-71e371b3872c"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "12cf7a77-95ea-80e4-bae2-f710c498c51d",
+      "24702a64-e10d-43fb-905d-05714a71538b",
+      "b60873bc-f2fd-4c11-be9a-96e1b972d827",
+      "115f7a77-95ea-80a6-a7e2-f4ea9138dc6b",
+      "12cf7a77-95ea-8034-bb85-ea5696d019cb",
+      "12cf7a77-95ea-8065-9a89-db0b8ed389a4",
+      "f5f7584b-d95a-4064-9696-95861b6e2420",
+      "5223ef98-e150-4efb-8c2f-9b6cb3d31468",
+      "12cf7a77-95ea-80f3-af36-ef16976ae38e"
+    ]
+  },
+  "12bf7a77-95ea-816b-9651-d8ac03c48e8e": {
+    "name": "73% Tangerine + Candied Ginger",
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T00:52:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181104746.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181113530.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "7eaf9b52-b00c-4366-903d-046392037967"
+    ],
+    "cacao_percentage": 0.73,
+    "maker_id": [
+      "5918b908-a232-46ef-9223-77f1138c07bb"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "4d133c4c-a7f1-4f0d-a99a-46f858e4ea44",
+      "12cf7a77-95ea-8060-8fba-c6018c8a8001",
+      "8f665795-f5b1-4625-bc05-3344f07d2d6a",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6",
+      "12cf7a77-95ea-807b-839c-c710d52c0e21"
+    ]
+  },
+  "12bf7a77-95ea-8112-8bbf-de5427340205": {
+    "name": "70% Raspbery Pistachio Brittle",
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T00:55:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181049906.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181054101.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "e881bec8-7c5a-471f-a21a-5e5c6c6a4df8"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "5918b908-a232-46ef-9223-77f1138c07bb"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "8b848f31-7f6b-430c-ab04-9b64065daea2",
+      "53504645-397a-4ee6-a80b-11d96ef33718",
+      "8f665795-f5b1-4625-bc05-3344f07d2d6a",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6",
+      "b3f84201-7f97-47a7-85d2-dbc31a9e60f9",
+      "069f5a3b-eba9-40d2-b709-563e46efa050"
+    ]
+  },
+  "12bf7a77-95ea-81fc-9f39-d92bee1eaebc": {
+    "name": "Sardines + Irish Sea Salt",
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T00:49:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181033283.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181042916.PORTRAIT.jpg",
+    "form_factor": "Novelty",
+    "cacao_origin_id": [
+      "b7ecbc24-664e-4c4e-a53f-3f2260247b6c"
+    ],
+    "cacao_percentage": 0.6,
+    "maker_id": [
+      "7a171bed-d834-4a42-8c2f-6464d1df834a"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6"
+    ]
+  },
   "127f7a77-95ea-8198-8172-e980a3ea70cc": {
     "name": "70% Dark Chocolate Belize",
     "created_at": "2024-10-22T00:39:00.000Z",

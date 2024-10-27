@@ -1,5 +1,655 @@
 [
   {
+    "name": "Hazelnut & Brown Butter",
+    "form_factor": "Bar",
+    "cacao_percentage": 30,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192124672.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192128343.PORTRAIT.jpg",
+    "maker": {
+      "name": "Lumineux",
+      "city": "Travelers Rest",
+      "region": "South Carolina",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Dominican Republic",
+        "city": null,
+        "region": null,
+        "country": "Dominican Republic"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Sea Salt",
+      "Whole Milk Powder",
+      "Sunflower Lecithin",
+      "Butter",
+      "Cocoa Butter",
+      "Hazelnuts",
+      "Cane Sugar"
+    ],
+    "food_tags": [
+      "Dairy",
+      "Emulsifier",
+      "Nuts",
+      "Sugar"
+    ],
+    "created_at": "2024-10-26T18:48:00.000Z",
+    "updated_at": "2024-10-27T00:15:00.000Z"
+  },
+  {
+    "name": "Red Wine-Poached Pear",
+    "form_factor": "Bar",
+    "cacao_percentage": 65,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192112703.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192116252.PORTRAIT.jpg",
+    "maker": {
+      "name": "Lumineux",
+      "city": "Travelers Rest",
+      "region": "South Carolina",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kablon Farms, Philippines",
+        "city": "Koronadal",
+        "region": null,
+        "country": "Philippines"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Lemon Zest",
+      "Orange Zest",
+      "Pears",
+      "Star Anise",
+      "Red Wine",
+      "Cloves",
+      "Ginger",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Citrus",
+      "Fruits",
+      "Spices",
+      "Alcohol",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:48:00.000Z",
+    "updated_at": "2024-10-27T00:17:00.000Z"
+  },
+  {
+    "name": "10-Year Aged Balsamic Vinegar",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192103834.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192107102.PORTRAIT.jpg",
+    "maker": {
+      "name": "Lumineux",
+      "city": "Travelers Rest",
+      "region": "South Carolina",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "El Ramonal, Dominican Republic",
+        "city": "El Ramonal",
+        "region": "Duarte",
+        "country": "Dominican Republic"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Balsamic Vinegar",
+      "Honey",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alt-Sugar",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:48:00.000Z",
+    "updated_at": "2024-10-27T00:21:00.000Z"
+  },
+  {
+    "name": "Black Sesame & Fig",
+    "form_factor": "Bar",
+    "cacao_percentage": 50,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192053696.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192057302.PORTRAIT.jpg",
+    "maker": {
+      "name": "Lumineux",
+      "city": "Travelers Rest",
+      "region": "South Carolina",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "El Ramonal, Dominican Republic",
+        "city": "El Ramonal",
+        "region": "Duarte",
+        "country": "Dominican Republic"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Figs",
+      "Brown Sugar",
+      "Black Sesame",
+      "Whole Milk Powder",
+      "Cocoa Butter",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Sugar",
+      "Nuts",
+      "Dairy",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:48:00.000Z",
+    "updated_at": "2024-10-27T00:23:00.000Z"
+  },
+  {
+    "name": "Maple & Cobanero Chile",
+    "form_factor": "Bar",
+    "cacao_percentage": 50,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192020243.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192033734.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Lumineux",
+      "city": "Travelers Rest",
+      "region": "South Carolina",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Semuliki Forest, Uganda",
+        "city": "Kasese",
+        "region": "Semuliki Forest",
+        "country": "Uganda"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cobanero Chili Flakes",
+      "Maple Sugar",
+      "Sea Salt",
+      "Whole Milk Powder",
+      "Cocoa Butter",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Spicy",
+      "Alt-Sugar",
+      "Dairy",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T00:26:00.000Z"
+  },
+  {
+    "name": "Milk Oolon & Coriander",
+    "form_factor": "Bar",
+    "cacao_percentage": 65,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192005401.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_192008504.PORTRAIT.jpg",
+    "maker": {
+      "name": "Lumineux",
+      "city": "Travelers Rest",
+      "region": "South Carolina",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kablon Farms, Philippines",
+        "city": "Koronadal",
+        "region": null,
+        "country": "Philippines"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Milk Oolong Tea",
+      "Orange Zest",
+      "Coriander",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Caffeine",
+      "Tea",
+      "Citrus",
+      "Fruits",
+      "Spices",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T00:28:00.000Z"
+  },
+  {
+    "name": "Cherry & Sage",
+    "form_factor": "Bar",
+    "cacao_percentage": 75,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_191956427.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_191959827.PORTRAIT.jpg",
+    "maker": {
+      "name": "Lumineux",
+      "city": "Travelers Rest",
+      "region": "South Carolina",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Semuliki Forest, Uganda",
+        "city": "Kasese",
+        "region": "Semuliki Forest",
+        "country": "Uganda"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Sage",
+      "Cherries",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T00:29:00.000Z"
+  },
+  {
+    "name": "Shiso Fresh",
+    "form_factor": "Bar",
+    "cacao_percentage": 67,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181430854.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181435078.PORTRAIT.jpg",
+    "maker": {
+      "name": "J. Street ",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Huila, Colombia",
+        "city": null,
+        "region": "Huila",
+        "country": "Colombia"
+      },
+      {
+        "name": "Camino Verde, Ecuador",
+        "city": "Durán",
+        "region": null,
+        "country": "Ecuador"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Whine Wine Vinegar",
+      "Mint",
+      "Shiso Leaf",
+      "Cocoa Butter",
+      "Cane Sugar"
+    ],
+    "food_tags": [
+      "Mint",
+      "Sugar"
+    ],
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T00:34:00.000Z"
+  },
+  {
+    "name": "Eggnog Milk Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 44,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181304536.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181308408.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Milk",
+      "Eggs",
+      "Milk Chocolate",
+      "Cloves",
+      "Nutmeg",
+      "Cinnamon",
+      "Sugar",
+      "Vanilla",
+      "Cream (Milk)"
+    ],
+    "food_tags": [
+      "Dairy",
+      "Eggs",
+      "Emulsifier",
+      "Sugar",
+      "Spices"
+    ],
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T01:02:00.000Z"
+  },
+  {
+    "name": "Caramel Apple Milk Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 44,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181250909.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181256160.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Apple",
+      "Citric Acid",
+      "Milk Chocolate",
+      "Caramel"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Dairy",
+      "Emulsifier",
+      "Sugar"
+    ],
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T01:03:00.000Z"
+  },
+  {
+    "name": "Wild Cherry Dark",
+    "form_factor": "Bar",
+    "cacao_percentage": 73,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181234321.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181239849.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Red 3",
+      "Citric Acid",
+      "Dark Chocolate w/ Soy Lecithin",
+      "Cherries"
+    ],
+    "food_tags": [
+      "Artificial Coloring",
+      "Cacao",
+      "Emulsifier",
+      "Soy",
+      "Sugar",
+      "Fruits"
+    ],
+    "created_at": "2024-10-26T18:47:00.000Z",
+    "updated_at": "2024-10-27T01:04:00.000Z"
+  },
+  {
+    "name": "The Margarita Bar",
+    "form_factor": "Bar",
+    "cacao_percentage": 73,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181149757.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181155948.PORTRAIT.jpg",
+    "maker": {
+      "name": "Compartes",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Tequila",
+      "Lime",
+      "Dark Chocolate w/ Soy Lecithin",
+      "Sea Salt"
+    ],
+    "food_tags": [
+      "Alcohol",
+      "Citrus",
+      "Fruits",
+      "Cacao",
+      "Emulsifier",
+      "Soy",
+      "Sugar"
+    ],
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T01:05:00.000Z"
+  },
+  {
+    "name": "Irish Coffee: Killowen Whiskey x Bailies Coffee",
+    "form_factor": "Bar",
+    "cacao_percentage": 60,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181133632.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181139093.PORTRAIT.jpg",
+    "maker": {
+      "name": "NearyNogs",
+      "city": "Newry",
+      "region": null,
+      "country": "Northern Ireland"
+    },
+    "cacao_origins": [
+      {
+        "name": "Ecuador",
+        "city": null,
+        "region": null,
+        "country": "Ecuador"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Irish Whiskey",
+      "Coffee Beans",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alcohol",
+      "Caffeine",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T00:46:00.000Z"
+  },
+  {
+    "name": "Cali Mole",
+    "form_factor": "Bar",
+    "cacao_percentage": 56,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181119698.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181126084.PORTRAIT.jpg",
+    "maker": {
+      "name": "J. Street ",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Akesson’s Bejofo Estate, Madagascar",
+        "city": "Bejofo",
+        "region": "Sambirano",
+        "country": "Madagascar"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Masa Miso",
+      "Chile Cross",
+      "Mulato Pepper",
+      "Pepitas",
+      "Espelette Pepper",
+      "Guajillo Pepper",
+      "Spices",
+      "Sesame Seeds",
+      "Almonds",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Spices",
+      "Spicy",
+      "Nuts",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T00:44:00.000Z"
+  },
+  {
+    "name": "73% Tangerine + Candied Ginger",
+    "form_factor": "Bar",
+    "cacao_percentage": 73,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181104746.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181113530.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Volo",
+      "city": "Windsor",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Lachua, Guatemala",
+        "city": null,
+        "region": "Lachua",
+        "country": "Guatemala"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Sulfur Dioxide",
+      "Candied Tangerine",
+      "Candied Ginger",
+      "Cinnamon",
+      "Sea Salt",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Preservative",
+      "Citrus",
+      "Fruits",
+      "Sugar",
+      "Spices",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T00:52:00.000Z"
+  },
+  {
+    "name": "70% Raspbery Pistachio Brittle",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181049906.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181054101.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Volo",
+      "city": "Windsor",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Pisa, Haiti",
+        "city": null,
+        "region": null,
+        "country": "Haiti"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Pistachios",
+      "Dried Raspberries",
+      "Cinnamon",
+      "Sea Salt",
+      "Corn Syrup",
+      "Cream (Milk)",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Nuts",
+      "Fruits",
+      "Spices",
+      "Sugar",
+      "Dairy",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T00:55:00.000Z"
+  },
+  {
+    "name": "Sardines + Irish Sea Salt",
+    "form_factor": "Novelty",
+    "cacao_percentage": 60,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181033283.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241025_181042916.PORTRAIT.jpg",
+    "maker": {
+      "name": "NearyNogs",
+      "city": "Newry",
+      "region": null,
+      "country": "Northern Ireland"
+    },
+    "cacao_origins": [
+      {
+        "name": "Hacienda Limon, Ecuador",
+        "city": null,
+        "region": "Los Rios",
+        "country": "Ecuador"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Sea Salt",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-10-26T18:46:00.000Z",
+    "updated_at": "2024-10-27T00:49:00.000Z"
+  },
+  {
     "name": "70% Dark Chocolate Belize",
     "form_factor": "Bar",
     "cacao_percentage": 70,
@@ -39891,7 +40541,7 @@
       {
         "name": "Duarte, Dominican Republic",
         "city": null,
-        "region": null,
+        "region": "Duarte",
         "country": "Dominican Republic"
       }
     ],
@@ -39957,7 +40607,7 @@
       {
         "name": "Duarte, Dominican Republic",
         "city": null,
-        "region": null,
+        "region": "Duarte",
         "country": "Dominican Republic"
       }
     ],

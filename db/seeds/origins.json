@@ -1,4 +1,20 @@
 {
+  "12cf7a77-95ea-80ae-b23e-ed2c560753fe": {
+    "name": "Huila, Colombia",
+    "created_at": "2024-10-27T00:31:00.000Z",
+    "updated_at": "2024-10-27T00:32:00.000Z",
+    "city": null,
+    "region": "Huila",
+    "country": "Colombia"
+  },
+  "12cf7a77-95ea-8038-a1fb-e5f644d2f942": {
+    "name": "El Ramonal, Dominican Republic",
+    "created_at": "2024-10-27T00:20:00.000Z",
+    "updated_at": "2024-10-27T00:20:00.000Z",
+    "city": "El Ramonal",
+    "region": "Duarte",
+    "country": "Dominican Republic"
+  },
   "127f7a77-95ea-804e-abe4-e5d972293aa6": {
     "name": "Merida, Venezuela",
     "created_at": "2024-10-22T02:30:00.000Z",
@@ -1234,9 +1250,9 @@
   "205fd0e2-a112-4e78-a0e5-2799c58afe28": {
     "name": "Duarte, Dominican Republic",
     "created_at": "2024-02-28T23:12:00.000Z",
-    "updated_at": "2024-04-17T03:26:00.000Z",
+    "updated_at": "2024-10-27T00:19:00.000Z",
     "city": null,
-    "region": null,
+    "region": "Duarte",
     "country": "Dominican Republic"
   },
   "e1182a6c-a584-4498-b402-f124444cb8aa": {
