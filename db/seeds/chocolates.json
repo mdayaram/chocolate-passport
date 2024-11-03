@@ -1,4 +1,244 @@
 {
+  "132f7a77-95ea-81db-8c13-c5a6430e2cad": {
+    "name": "Christmas Fruit Cake",
+    "created_at": "2024-11-02T04:06:00.000Z",
+    "updated_at": "2024-11-03T00:34:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241102_002927395.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241102_002931421.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "d634af2b-3eb1-475b-99ba-00cba82b43ab"
+    ],
+    "cacao_percentage": 0.72,
+    "maker_id": [
+      "66508125-030c-4a64-9f40-e4109174a6e5"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "a92391eb-3986-47e5-a1da-bd9cdd3fdc14",
+      "e648537c-d608-45da-8218-8e2b5dfb908c",
+      "9cd67987-2718-414f-b65a-6c25a5d7dccb",
+      "5add90a1-1c56-4c7b-8c2f-7b094c02075c",
+      "8f665795-f5b1-4625-bc05-3344f07d2d6a",
+      "dbd7dc72-b3b7-45c1-802b-8e3f7268795f",
+      "cc8490ac-9e28-4af3-9937-03b0616e9fdc",
+      "4549d9f6-c32e-4d05-9e13-cd9615705c91",
+      "133f7a77-95ea-8059-8360-f2c4bc138eab",
+      "ef66795c-ca23-40d8-b38f-64a6edfd5740"
+    ]
+  },
+  "132f7a77-95ea-81fb-80bc-ce4a6bc8b54c": {
+    "name": "Osmanthus & Golden Berries",
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:38:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241102_002230471.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241102_002234465.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "80ab1910-2adb-4c5c-b697-3988de365a18"
+    ],
+    "cacao_percentage": 0.56,
+    "maker_id": [
+      "66508125-030c-4a64-9f40-e4109174a6e5"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "115f7a77-95ea-8048-a43e-e1335ca8e125",
+      "821291d2-c7a2-43f9-a8b3-77750d10e055",
+      "133f7a77-95ea-80c7-aa5d-d3ce55388e1f"
+    ]
+  },
+  "132f7a77-95ea-813e-876a-de4ede979250": {
+    "name": "Pinalum 73% Dark",
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:40:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_203223137.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_203229087.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "2765990d-fdff-42fc-9249-5299d67cb669"
+    ],
+    "cacao_percentage": 0.73,
+    "maker_id": [
+      "e3cc07ac-0228-4ff1-b910-624f39896573"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59"
+    ]
+  },
+  "132f7a77-95ea-813e-9aa1-c49617f7d03a": {
+    "name": "Unfiltered Hard Cider",
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:42:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_184642661.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_184649231.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "6eae230c-461f-4135-8d5d-85747899fb58"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "576aa700-f90b-4a2e-930a-7a07068f965d"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "f310b48c-0e3b-4586-a2f1-01801f58951e"
+    ]
+  },
+  "132f7a77-95ea-81c2-a9ff-c95810870766": {
+    "name": "Mbingu, Tanzania Kokoa Kamili",
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:43:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_183758888.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_183812720.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "95abcf76-eb9c-446b-9731-020666954c96"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "74c8af02-920f-4b16-90c7-01e84f668817"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59"
+    ]
+  },
+  "132f7a77-95ea-8199-b1da-fe37f53353c9": {
+    "name": "Salted Peanut Milk Chocolate",
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:46:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_183435268.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_183447556.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "ee5669a5-3e3a-4b3a-b8b0-6132db94fdf1"
+    ],
+    "cacao_percentage": 0.47,
+    "maker_id": [
+      "d566cff8-a881-43db-9135-34b68db9afd4"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "4bfd38c8-b7ce-4328-ad0c-31b200ca2df6",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "7e2f1625-8596-4a64-a792-83019cdfa4b6",
+      "c9bba21c-92c6-4f5d-8107-25cc041f7ef3"
+    ]
+  },
+  "132f7a77-95ea-8113-aaec-da97b131435b": {
+    "name": "70% Bolivia",
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:47:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182430872.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182436436.PORTRAIT.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "56712349-0808-41ab-a7a0-16f2548629b2"
+    ],
+    "cacao_percentage": 0.7,
+    "maker_id": [
+      "4aa9a4e9-2ba7-455f-96d9-b39bb3f3e8d0"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22"
+    ]
+  },
+  "132f7a77-95ea-8174-81cc-ce3b19339895": {
+    "name": "Classic Cocktail Collection",
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:58:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182133099.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182154777.PORTRAIT.jpg",
+    "form_factor": "Gift Box",
+    "cacao_origin_id": [],
+    "cacao_percentage": null,
+    "maker_id": [
+      "ac977879-4bf1-41b1-b3be-999e125d46b9"
+    ],
+    "ingredient_ids": [
+      "3ae0e394-4b1b-4899-be33-da2645e7123b",
+      "133f7a77-95ea-8078-9bdb-e67fe28be58f",
+      "133f7a77-95ea-8041-9378-f1d68f443b1a",
+      "d9c0680f-1950-486f-87ed-282f10085452",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "9a3e2f8d-5e0b-4da6-87ba-2613195c0f8f",
+      "63b244fb-61dd-4ce2-a396-f458e34c8040",
+      "80761b65-93f8-432c-980b-073eb5562598",
+      "34af3a3a-de0f-4cbf-8ed9-335131a29c12",
+      "332b80eb-cc5a-41bd-8627-2d42ec2c489a",
+      "45a6f131-c78a-475f-b60f-a2321973c115",
+      "7913391f-709c-409e-bf61-dff92abdb08d",
+      "260b6415-f214-43c2-ba90-2f012818ff42",
+      "bb6965b1-de6e-48a2-b7c8-54af5dfc0f47",
+      "bb0b16fd-207c-4b8e-b176-eb258894c6e5",
+      "1b132e62-82ce-49d3-9ab8-3e8d93548718",
+      "127f7a77-95ea-80e8-a1a0-fe714359fb43",
+      "de77628d-afde-49ef-ac56-66a4dd145b00",
+      "0d4a4ce5-cfce-42ec-bf10-5a641595b001",
+      "12cf7a77-95ea-808f-a6b3-d56db00c15a0",
+      "a259a879-3a4a-49ba-814d-d1846d87e3a9",
+      "c9f02518-bba0-40f2-8caa-e534f0bacdb2",
+      "54af410e-85d5-46ef-8189-12dce98e90e0",
+      "8d57457e-f451-4cc3-a973-ec98d77c12e4",
+      "d6c1027b-ec0f-4905-a696-19db34a57f05"
+    ]
+  },
+  "132f7a77-95ea-8110-a567-d8113863167b": {
+    "name": "Nut Cracker: 54% Dark Chocolate with Caramelized Brazilian Nuts",
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:50:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182047968.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182054632.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "83c6c142-e266-42e6-be37-df39e4d0985e"
+    ],
+    "cacao_percentage": 0.54,
+    "maker_id": [
+      "ed571a3a-e70a-46b4-a9cc-4dfcbb46aaa5"
+    ],
+    "ingredient_ids": [
+      "d40161a0-ef29-4d52-b11b-79bfeadefc09",
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "133f7a77-95ea-8001-a1e7-eee3c6881bd3",
+      "133f7a77-95ea-80ba-9bf2-e28ae91197ae",
+      "5540c3ad-ad41-4990-9436-65ee31538755"
+    ]
+  },
+  "132f7a77-95ea-819e-909d-e2455e1750ca": {
+    "name": "Sweet Corn: White Chocolate with Yellow Sweet Corn",
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:51:00.000Z",
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182033523.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182039167.PORTRAIT.ORIGINAL.jpg",
+    "form_factor": "Bar",
+    "cacao_origin_id": [
+      "83c6c142-e266-42e6-be37-df39e4d0985e"
+    ],
+    "cacao_percentage": null,
+    "maker_id": [
+      "ed571a3a-e70a-46b4-a9cc-4dfcbb46aaa5"
+    ],
+    "ingredient_ids": [
+      "fbf695f5-23af-49e5-9d4b-967160205d22",
+      "02f8cbaf-1393-422e-bec9-2342508e6d59",
+      "821291d2-c7a2-43f9-a8b3-77750d10e055",
+      "133f7a77-95ea-8034-a308-e3e4c11c057d"
+    ]
+  },
   "12bf7a77-95ea-817d-8679-d7df60b894e3": {
     "name": "Hazelnut & Brown Butter",
     "created_at": "2024-10-26T18:48:00.000Z",

@@ -1,5 +1,394 @@
 [
   {
+    "name": "Christmas Fruit Cake",
+    "form_factor": "Bar",
+    "cacao_percentage": 72,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241102_002927395.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241102_002931421.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Fossa",
+      "city": null,
+      "region": null,
+      "country": "Singapore"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kelantan, Malaysia",
+        "city": null,
+        "region": null,
+        "country": "Malaysia"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Amanatsu Orange Peel",
+      "Beet Sugar",
+      "Cranberries",
+      "Citric Acid",
+      "Currants",
+      "Brown Sugar",
+      "Cloves",
+      "Nutmeg",
+      "Cinnamon",
+      "Walnuts",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Citrus",
+      "Fruits",
+      "Alt-Sugar",
+      "Sugar",
+      "Spices",
+      "Nuts",
+      "Cacao"
+    ],
+    "created_at": "2024-11-02T04:06:00.000Z",
+    "updated_at": "2024-11-03T00:34:00.000Z"
+  },
+  {
+    "name": "Osmanthus & Golden Berries",
+    "form_factor": "Bar",
+    "cacao_percentage": 56,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241102_002230471.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241102_002234465.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Fossa",
+      "city": null,
+      "region": null,
+      "country": "Singapore"
+    },
+    "cacao_origins": [
+      {
+        "name": "Paquibato, Philippines",
+        "city": "Davao City",
+        "region": null,
+        "country": "Philippines"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Golden Berries",
+      "Osmanthus Flower",
+      "Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Fruits",
+      "Dairy",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:38:00.000Z"
+  },
+  {
+    "name": "Pinalum 73% Dark",
+    "form_factor": "Bar",
+    "cacao_percentage": 73,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_203223137.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_203229087.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Sirene",
+      "city": "Victoria",
+      "region": "British Columbia",
+      "country": "Canada"
+    },
+    "cacao_origins": [
+      {
+        "name": "Pinalum, Malekula Island, Vanuatu",
+        "city": "Pinalum",
+        "region": "Malekula Island",
+        "country": "Vanuatu"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:40:00.000Z"
+  },
+  {
+    "name": "Unfiltered Hard Cider",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_184642661.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_184649231.PORTRAIT.jpg",
+    "maker": {
+      "name": "Goodnow Farms",
+      "city": "Sudbury",
+      "region": "Massachusetts",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Zorzal Comunitario, Dominican Republic",
+        "city": "San Francisco de Macoris",
+        "region": "Reserva Zorzal",
+        "country": "Dominican Republic"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cider",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alcohol",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:42:00.000Z"
+  },
+  {
+    "name": "Mbingu, Tanzania Kokoa Kamili",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_183758888.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_183812720.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "SOMA",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada"
+    },
+    "cacao_origins": [
+      {
+        "name": "Kokoa Kamili, Tanzania",
+        "city": "Mbingu",
+        "region": "Kilombero Valley",
+        "country": "Tanzania"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:43:00.000Z"
+  },
+  {
+    "name": "Salted Peanut Milk Chocolate",
+    "form_factor": "Bar",
+    "cacao_percentage": 47,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_183435268.PORTRAIT.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_183447556.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Auro",
+      "city": "Calamba City",
+      "region": "Laguna",
+      "country": "Philippines"
+    },
+    "cacao_origins": [
+      {
+        "name": "Philippines",
+        "city": null,
+        "region": null,
+        "country": "Philippines"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Oat Flour",
+      "Sea Salt",
+      "Peanuts",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Alt-Milk",
+      "Nuts",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:46:00.000Z"
+  },
+  {
+    "name": "70% Bolivia",
+    "form_factor": "Bar",
+    "cacao_percentage": 70,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182430872.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182436436.PORTRAIT.jpg",
+    "maker": {
+      "name": "Spinnaker",
+      "city": "Seattle",
+      "region": "Washington",
+      "country": "USA"
+    },
+    "cacao_origins": [
+      {
+        "name": "Alto Beni Wild Bolivia",
+        "city": null,
+        "region": "Alto Beni",
+        "country": "Bolivia"
+      }
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:47:00.000Z"
+  },
+  {
+    "name": "Classic Cocktail Collection",
+    "form_factor": "Gift Box",
+    "cacao_percentage": null,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182133099.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182154777.PORTRAIT.jpg",
+    "maker": {
+      "name": "Feve",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "USA"
+    },
+    "cacao_origins": [
+
+    ],
+    "made_in_origin": false,
+    "ingredients": [
+      "Milk Chocolate w/ Soy Lecithin",
+      "White Chocolate w/ Soy Lecithin",
+      "Tequila",
+      "Ginger Powder",
+      "Vermouth",
+      "Vanilla Paste",
+      "Gin",
+      "Mint",
+      "Liqueurs",
+      "Herbs",
+      "Lime Oil",
+      "Lime Juice",
+      "Potassium Sorbate",
+      "Vodka",
+      "Lemon Juice",
+      "Black Olives",
+      "Honey",
+      "Lemon Oil",
+      "Dark Chocolate w/ Soy Lecithin",
+      "Glucose",
+      "Rum",
+      "Salt",
+      "Orange Oil",
+      "Cocoa Butter",
+      "Hazelnuts"
+    ],
+    "food_tags": [
+      "Cacao",
+      "Dairy",
+      "Emulsifier",
+      "Soy",
+      "Sugar",
+      "Alcohol",
+      "Spices",
+      "Mint",
+      "Citrus",
+      "Fruits",
+      "Preservative",
+      "Alt-Sugar",
+      "Nuts"
+    ],
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:58:00.000Z"
+  },
+  {
+    "name": "Nut Cracker: 54% Dark Chocolate with Caramelized Brazilian Nuts",
+    "form_factor": "Bar",
+    "cacao_percentage": 54,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182047968.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182054632.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Mission",
+      "city": "Brooklin",
+      "region": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "cacao_origins": [
+      {
+        "name": "Brazil",
+        "city": null,
+        "region": null,
+        "country": "Brazil"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Brazil Nuts",
+      "Baru Nuts",
+      "Cashews",
+      "Cocoa Butter",
+      "Cane Sugar",
+      "Cacao"
+    ],
+    "food_tags": [
+      "Nuts",
+      "Sugar",
+      "Cacao"
+    ],
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:50:00.000Z"
+  },
+  {
+    "name": "Sweet Corn: White Chocolate with Yellow Sweet Corn",
+    "form_factor": "Bar",
+    "cacao_percentage": null,
+    "front_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182033523.PORTRAIT.ORIGINAL.jpg",
+    "back_img_url": "https://s3.chocolatepassport.app/catalog/PXL_20241101_182039167.PORTRAIT.ORIGINAL.jpg",
+    "maker": {
+      "name": "Mission",
+      "city": "Brooklin",
+      "region": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "cacao_origins": [
+      {
+        "name": "Brazil",
+        "city": null,
+        "region": null,
+        "country": "Brazil"
+      }
+    ],
+    "made_in_origin": true,
+    "ingredients": [
+      "Yellow Sweet Corn",
+      "Milk Powder",
+      "Cocoa Butter",
+      "Cane Sugar"
+    ],
+    "food_tags": [
+      "Dairy",
+      "Sugar"
+    ],
+    "created_at": "2024-11-02T04:05:00.000Z",
+    "updated_at": "2024-11-03T00:51:00.000Z"
+  },
+  {
     "name": "Hazelnut & Brown Butter",
     "form_factor": "Bar",
     "cacao_percentage": 30,
@@ -1145,8 +1534,8 @@
     },
     "cacao_origins": [
       {
-        "name": "Malekula Island, Vanuatu",
-        "city": null,
+        "name": "Pinalum, Malekula Island, Vanuatu",
+        "city": "Pinalum",
         "region": "Malekula Island",
         "country": "Vanuatu"
       }
@@ -17116,8 +17505,8 @@
     },
     "cacao_origins": [
       {
-        "name": "Malekula Island, Vanuatu",
-        "city": null,
+        "name": "Pinalum, Malekula Island, Vanuatu",
+        "city": "Pinalum",
         "region": "Malekula Island",
         "country": "Vanuatu"
       }
@@ -44979,7 +45368,7 @@
     ],
     "made_in_origin": false,
     "ingredients": [
-      "Currant",
+      "Currants",
       "Kelp",
       "Mushrooms",
       "Cane Sugar",
