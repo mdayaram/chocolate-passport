@@ -43,6 +43,9 @@ gem "bootsnap", require: false
 # Upload files to AWS S3 [https://github.com/aws/aws-sdk-ruby]
 gem "aws-sdk-s3"
 
+# Download and update Notion equivalent pages [https://github.com/phacks/notion-ruby-client]
+gem "notion-ruby-client"
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
