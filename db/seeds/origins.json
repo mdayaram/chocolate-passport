@@ -1,4 +1,52 @@
 {
+  "165f7a77-95ea-8018-87aa-c7584fdf6e23": {
+    "name": "Seram Island, Indonesia",
+    "created_at": "2024-12-23T01:18:00.000Z",
+    "updated_at": "2024-12-23T01:19:00.000Z",
+    "city": null,
+    "region": "Seram Island",
+    "country": "Indonesia"
+  },
+  "165f7a77-95ea-80b9-9a09-eb9170c668bd": {
+    "name": "Three Mountains, Ghana",
+    "created_at": "2024-12-23T01:07:00.000Z",
+    "updated_at": "2024-12-23T01:07:00.000Z",
+    "city": null,
+    "region": null,
+    "country": "Ghana"
+  },
+  "165f7a77-95ea-806a-a589-e212a9f03125": {
+    "name": "Cuencas del Huallaga, Peru",
+    "created_at": "2024-12-23T01:02:00.000Z",
+    "updated_at": "2024-12-23T01:03:00.000Z",
+    "city": null,
+    "region": "San Martín",
+    "country": "Peru"
+  },
+  "165f7a77-95ea-8003-bfd6-d45add3cea8c": {
+    "name": "Quillabamba, Cusco, Peru",
+    "created_at": "2024-12-23T00:54:00.000Z",
+    "updated_at": "2024-12-23T00:54:00.000Z",
+    "city": "Quillabamba",
+    "region": "Cusco",
+    "country": "Peru"
+  },
+  "164f7a77-95ea-808c-8d00-d095079e36cf": {
+    "name": "Tarapoto, San Martín, Peru",
+    "created_at": "2024-12-22T22:42:00.000Z",
+    "updated_at": "2024-12-22T22:42:00.000Z",
+    "city": "Tarapoto",
+    "region": "San Martín",
+    "country": "Peru"
+  },
+  "159f7a77-95ea-809e-9adb-f2fa5e9d244c": {
+    "name": "To'ak, Piedra de Plata, Manabi, Ecuador",
+    "created_at": "2024-12-11T02:26:00.000Z",
+    "updated_at": "2024-12-11T02:26:00.000Z",
+    "city": "Piedra de Plata",
+    "region": "Manabi",
+    "country": "Ecuador"
+  },
   "12cf7a77-95ea-80ae-b23e-ed2c560753fe": {
     "name": "Huila, Colombia",
     "created_at": "2024-10-27T00:31:00.000Z",
@@ -27,16 +75,16 @@
     "name": "Hacienda La Sabaneta, Venezuela",
     "created_at": "2024-10-22T02:23:00.000Z",
     "updated_at": "2024-10-22T02:23:00.000Z",
-    "city": "Choron\u00ed",
+    "city": "Choroní",
     "region": "Aragua",
     "country": "Venezuela"
   },
   "11af7a77-95ea-8089-9d41-dcfb602f8bc3": {
-    "name": "Cahab\u00f3n",
+    "name": "Cahabón",
     "created_at": "2024-10-09T00:11:00.000Z",
     "updated_at": "2024-10-09T00:13:00.000Z",
     "city": null,
-    "region": "Cahab\u00f3n",
+    "region": "Cahabón",
     "country": "Guatemala"
   },
   "115f7a77-95ea-80f1-8d40-e3b20d7b6a16": {
@@ -64,7 +112,7 @@
     "country": "USA"
   },
   "25863ed3-f4d6-477e-a007-b2f006e49258": {
-    "name": "Ua H\u0101nai Orchards, Hilo, Hawaii",
+    "name": "Ua Hānai Orchards, Hilo, Hawaii",
     "created_at": "2024-08-17T02:20:00.000Z",
     "updated_at": "2024-08-17T02:20:00.000Z",
     "city": "Hilo",
@@ -80,11 +128,11 @@
     "country": "Costa Rica"
   },
   "02622a3d-05c6-4315-abff-7d001ba8e88a": {
-    "name": "Fazenda Panorama, Par\u00e1, Brazil",
+    "name": "Fazenda Panorama, Pará, Brazil",
     "created_at": "2024-07-20T16:33:00.000Z",
     "updated_at": "2024-07-20T16:34:00.000Z",
     "city": null,
-    "region": "Par\u00e1",
+    "region": "Pará",
     "country": "Brazil"
   },
   "b05a17ed-b654-45c0-82e2-9efb11f475fb": {
@@ -160,9 +208,9 @@
     "country": "Honduras"
   },
   "ae4449d0-e030-4c65-a743-f2eef717cb18": {
-    "name": "Cuzco, Peru",
+    "name": "Cusco, Peru",
     "created_at": "2024-05-25T16:42:00.000Z",
-    "updated_at": "2024-05-25T16:43:00.000Z",
+    "updated_at": "2024-12-23T00:55:00.000Z",
     "city": null,
     "region": "Cusco",
     "country": "Peru"
@@ -339,8 +387,8 @@
     "name": "Cacao South, San Andres, Costa Rica",
     "created_at": "2024-05-01T03:09:00.000Z",
     "updated_at": "2024-05-01T03:10:00.000Z",
-    "city": "San Andr\u00e9s",
-    "region": "San Jos\u00e9 Province",
+    "city": "San Andrés",
+    "region": "San José Province",
     "country": "Costa Rica"
   },
   "038e9bb9-fd09-45c9-83ff-f0d9b96f4693": {
@@ -440,12 +488,12 @@
     "country": "USA"
   },
   "d63d863f-df06-40b2-b59b-ddf8dea33ab3": {
-    "name": "C\u00f4te d'Ivoire",
+    "name": "Côte d'Ivoire",
     "created_at": "2024-04-26T02:16:00.000Z",
     "updated_at": "2024-04-26T02:16:00.000Z",
     "city": null,
     "region": null,
-    "country": "C\u00f4te d'Ivoire"
+    "country": "Côte d'Ivoire"
   },
   "01cacddb-c5bb-4016-8815-20cd43f14875": {
     "name": "O'Payo Profundo, Nicaragua",
@@ -536,7 +584,7 @@
     "country": "Venezuela"
   },
   "d649afed-0ebc-4ef7-be69-7dbec5667643": {
-    "name": "Valle de los R\u00edos Apur\u00edmac, Ene y Mantaro, Peru",
+    "name": "Valle de los Ríos Apurímac, Ene y Mantaro, Peru",
     "created_at": "2024-04-16T04:12:00.000Z",
     "updated_at": "2024-04-16T04:13:00.000Z",
     "city": null,
@@ -584,19 +632,19 @@
     "country": "Mexico"
   },
   "62886297-61af-46e6-8311-0047c40e9c05": {
-    "name": "Tuer\u00ea Settlement, Brazil",
+    "name": "Tuerê Settlement, Brazil",
     "created_at": "2024-04-15T23:44:00.000Z",
     "updated_at": "2024-04-15T23:48:00.000Z",
     "city": "Novo Repartimento",
-    "region": "Par\u00e1",
+    "region": "Pará",
     "country": "Brazil"
   },
   "f88b2b5e-e483-46fb-9a1f-f9a5c31adb71": {
     "name": "Sao Luiz, Espirito Santo, Brazil",
     "created_at": "2024-04-15T21:49:00.000Z",
     "updated_at": "2024-04-15T21:51:00.000Z",
-    "city": "S\u00e3o Luiz",
-    "region": "Maranh\u00e3o",
+    "city": "São Luiz",
+    "region": "Maranhão",
     "country": "Brazil"
   },
   "dac39b3e-285b-42ac-86fe-c8b7bab1d427": {
@@ -1307,7 +1355,7 @@
     "name": "Camino Verde, Ecuador",
     "created_at": "2024-02-17T01:12:00.000Z",
     "updated_at": "2024-02-17T16:34:00.000Z",
-    "city": "Dur\u00e1n",
+    "city": "Durán",
     "region": null,
     "country": "Ecuador"
   },
@@ -1568,7 +1616,7 @@
     "country": "Indonesia"
   },
   "13168138-7aed-4562-a374-9c3dcaf7ac98": {
-    "name": "Manoa, Hawai\u2019i",
+    "name": "Manoa, Hawai’i",
     "created_at": "2024-02-13T00:31:00.000Z",
     "updated_at": "2024-02-17T16:36:00.000Z",
     "city": "Oahu",
@@ -1600,7 +1648,7 @@
     "country": "Brazil"
   },
   "c104b65d-bcac-4fdf-a123-f8dd73ddf1ee": {
-    "name": "Akesson\u2019s Bejofo Estate, Madagascar",
+    "name": "Akesson’s Bejofo Estate, Madagascar",
     "created_at": "2024-02-12T21:17:00.000Z",
     "updated_at": "2024-02-17T16:36:00.000Z",
     "city": "Bejofo",

@@ -1,4 +1,36 @@
 {
+  "165f7a77-95ea-80f3-98d1-d56bdbb50bdb": {
+    "name": "Chocolarder",
+    "created_at": "2024-12-23T00:57:00.000Z",
+    "updated_at": "2024-12-23T00:59:00.000Z",
+    "city": "Falmouth",
+    "region": "England",
+    "country": "United Kingdom (UK)"
+  },
+  "15df7a77-95ea-809f-8c6d-c9c06aa51817": {
+    "name": "Map",
+    "created_at": "2024-12-15T21:20:00.000Z",
+    "updated_at": "2024-12-15T21:33:00.000Z",
+    "city": "Eugene",
+    "region": "Oregon",
+    "country": "USA"
+  },
+  "159f7a77-95ea-80aa-97a3-c9aa4647b1cd": {
+    "name": "To'ak",
+    "created_at": "2024-12-11T02:14:00.000Z",
+    "updated_at": "2024-12-11T02:16:00.000Z",
+    "city": "Quito",
+    "region": "Pichincha",
+    "country": "Ecuador"
+  },
+  "13af7a77-95ea-80b4-b4af-f6dad0e7a5db": {
+    "name": "Black Jaguar",
+    "created_at": "2024-11-10T20:18:00.000Z",
+    "updated_at": "2024-11-10T20:19:00.000Z",
+    "city": "Vancouver",
+    "region": "British Columbia",
+    "country": "Canada"
+  },
   "12cf7a77-95ea-801f-ba33-d87a54070f8b": {
     "name": "Lumineux",
     "created_at": "2024-10-27T00:13:00.000Z",
@@ -211,7 +243,7 @@
     "name": "Cacao Hunters",
     "created_at": "2024-04-29T20:15:00.000Z",
     "updated_at": "2024-04-29T20:17:00.000Z",
-    "city": "Popay\u00e1n",
+    "city": "Popayán",
     "region": "Cauca",
     "country": "Colombia"
   },
@@ -224,7 +256,7 @@
     "country": "Belgium"
   },
   "4503ebca-63e8-4547-a8dc-078a1168c908": {
-    "name": "R\u00f3zsav\u00f6lgyi Csokol\u00e1d\u00e9",
+    "name": "Rózsavölgyi Csokoládé",
     "created_at": "2024-04-18T22:53:00.000Z",
     "updated_at": "2024-04-18T22:56:00.000Z",
     "city": "Budapest",
@@ -259,7 +291,7 @@
     "name": "Niederegger",
     "created_at": "2024-04-17T03:43:00.000Z",
     "updated_at": "2024-04-17T03:45:00.000Z",
-    "city": "L\u00fcbeck",
+    "city": "Lübeck",
     "region": null,
     "country": "Germany"
   },
@@ -292,14 +324,14 @@
     "created_at": "2024-04-16T03:31:00.000Z",
     "updated_at": "2024-04-16T03:33:00.000Z",
     "city": "Monterrey",
-    "region": "Nuevo Le\u00f3n",
+    "region": "Nuevo León",
     "country": "Mexico"
   },
   "592fd813-7c79-403a-a085-257a8e9091ae": {
     "name": "Omnom",
     "created_at": "2024-04-16T03:14:00.000Z",
     "updated_at": "2024-04-16T03:15:00.000Z",
-    "city": "Reykjav\u00edk",
+    "city": "Reykjavík",
     "region": null,
     "country": "Iceland"
   },
@@ -384,7 +416,7 @@
     "country": "USA"
   },
   "e11f23d7-2161-45a9-8242-53c9f350f360": {
-    "name": "Cote d\u2019Or",
+    "name": "Cote d’Or",
     "created_at": "2024-04-11T02:01:00.000Z",
     "updated_at": "2024-04-11T02:05:00.000Z",
     "city": null,
@@ -472,7 +504,7 @@
     "country": "Thailand"
   },
   "090a2d75-3a20-4253-83b1-88a7d71709a8": {
-    "name": "Siamaya\u2019s Paleo Robbie",
+    "name": "Siamaya’s Paleo Robbie",
     "created_at": "2024-04-05T01:42:00.000Z",
     "updated_at": "2024-05-17T01:07:00.000Z",
     "city": "Chiang Mai",
@@ -539,7 +571,7 @@
     "name": "Standout",
     "created_at": "2024-04-04T23:31:00.000Z",
     "updated_at": "2024-04-04T23:33:00.000Z",
-    "city": "M\u00f6lndal",
+    "city": "Mölndal",
     "region": null,
     "country": "Sweden"
   },
@@ -840,9 +872,9 @@
     "country": "Spain"
   },
   "6cc21bc4-5f43-4bbc-98f8-da85eb9cf0eb": {
-    "name": "Marana",
+    "name": "Maraná",
     "created_at": "2024-03-06T20:54:00.000Z",
-    "updated_at": "2024-03-06T20:56:00.000Z",
+    "updated_at": "2024-12-22T22:40:00.000Z",
     "city": "Lima",
     "region": null,
     "country": "Peru"
@@ -928,7 +960,7 @@
     "country": "USA"
   },
   "7176d408-3a5f-400d-a375-333bfe5c3f36": {
-    "name": "Anette\u2019s",
+    "name": "Anette’s",
     "created_at": "2024-02-28T03:17:00.000Z",
     "updated_at": "2024-02-28T03:17:00.000Z",
     "city": "Napa Valley",
