@@ -3,6 +3,11 @@
 namespace :notion do
   desc "Export current Notion data into db/seeds"
   task export: :environment do
-    NotionExport.new.export!(Rails.root.join("db", "seeds"))
+    NotionExport.new.run!(Rails.root.join("db", "seeds"))
+  end
+
+  desc "Upload new images to notion and s3"
+  task upload: :environment do
+    NotionUpload.new.run!
   end
 end

@@ -1,9 +1,10 @@
 # frozen_string_literal: true
 
 require "fileutils"
+require "notion"
 
-class UploadImages
-  S3_UPLOAD_DIR = Pathname.new("apple")
+class NotionUpload
+  S3_UPLOAD_DIR = Pathname.new("catalog")
   IMG_BASE_URL = Pathname.new("https://s3.chocolatepassport.app").join(S3_UPLOAD_DIR)
   IMG1_TO_UPLOAD_DIR = Rails.root.join("tmp", "chocolates", "imgs1")
   IMG2_TO_UPLOAD_DIR = Rails.root.join("tmp", "chocolates", "imgs2")
@@ -20,8 +21,12 @@ class UploadImages
     )
   end
 
+  def notion_client
+    @notion_client ||= NotionClient.instance
+  end
+
   def progress(title, size)
-    ProgressBar.create(title: title, count: size, format: "%t: [%c/%C] |%B|")
+    ProgressBar.create(title: title, total: size, format: "%t: [%c/%C] |%B|")
   end
 
   def upload_to_s3(file)
@@ -52,18 +57,38 @@ class UploadImages
     front_url = upload_to_s3(front_img)
     back_url = back_img.nil? ? nil : upload_to_s3(back_img)
 
-    choco = Chocolate.create!(
-      front_img_url: front_url,
-      back_img_url: back_url,
-      # required attributes
-      form_factor: "Bar",
-      maker: Maker.tbd_maker,
-      notion_id: "",
-    )
-    Kase.create!(
-      item: choco,
-      workflow: Kase::WORKFLOW_NEW_BAR,
-    )
+    notion_payload = {
+      parent: {
+        type: "database_id",
+        database_id: NotionClient::CHOCOLATES_DB_ID
+      },
+      properties: {
+        "Front Image" => {
+          type: "files",
+          id: "%5E%3C%7Cn",
+          files: [{
+            external: { url: front_url },
+            type: "external",
+            name: front_img
+          }]
+        }
+      }
+    }
+
+    if !back_url.nil?
+      notion_payload[:properties]["Back Image"] = {
+        type: "files",
+        id: "",
+        files: [{
+          external: { url: back_url },
+          type: "external",
+          name: back_img
+        }]
+      }
+    end
+
+    result = notion_client.create_page(notion_payload)
+    raise "Error when uploading to notion: #{result}" if !result["id"].present?
 
     if back_img.nil?
       FileUtils.mv(front_img, IMG1_DONE_DIR.join(File.basename(front_img)))
@@ -73,7 +98,16 @@ class UploadImages
     end
   end
 
+  def ensure_paths_exist!
+    FileUtils.mkdir_p IMG1_TO_UPLOAD_DIR
+    FileUtils.mkdir_p IMG2_TO_UPLOAD_DIR
+    FileUtils.mkdir_p IMG1_DONE_DIR
+    FileUtils.mkdir_p IMG2_DONE_DIR
+  end
+
   def run!
+    ensure_paths_exist!
+
     # Run doubles first in case we have an odd number, we can catch the error early.
     files2 = img2_filenames
     double_progress = progress("Double Image Files", files2.size / 2)
